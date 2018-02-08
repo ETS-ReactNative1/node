@@ -1,5 +1,5 @@
 # node-tutorial
-tutorial node.js
+Este tutorial node.js recoge toda la información relevante para el desarrollo en este entorno de desarrollo.
 
 ## instalacion
 
@@ -18,7 +18,7 @@ Instalar node escribiendo en terminal:
 Comprobar la instalacion node:
 
 `node -v`
- 
+
 `npm -v`
 
 Actualizar Homebrew con:
