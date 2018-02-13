@@ -27,10 +27,14 @@ Actualizar Homebrew con:
 
 Actualizar node:
 
-
 `brew upgrade node`
 
 Desinstalar node:
 
 `brew uninstall node`
+
+## Referencias
+
+[Winamp2-js](http://www.microsiervos.com/archivo/musica/winamp-html5-javascript-codigo-abierto.html) El clásico Winamp 2.9 en HTML5 y JavaScript como código abierto.
+
 
