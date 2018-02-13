@@ -9,29 +9,15 @@ Instalar Homebrew con el siguiente comando en la terminal:
 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-Homebrew es un gestor de paquetes para Mac al estilo de apt-get en Linux.
+Homebrew es un gestor de paquetes para Mac al estilo de apt-get en Linux. Para instalar node usar los comandos:
 
-Instalar node escribiendo en terminal:
+`brew install node    // Instalar node escribiendo en terminal`
+`node -v              // comprobar version node instalada`
+`npm -v               // comprobar version npm instalada`
 
-`brew install node`
-
-Comprobar la instalacion node:
-
-`node -v`
-
-`npm -v`
-
-Actualizar Homebrew con:
-
-`brew update`
-
-Actualizar node:
-
-`brew upgrade node`
-
-Desinstalar node:
-
-`brew uninstall node`
+`brew update          // Actualizar Homebrew a la ultima version`
+`brew upgrade node    // Actualizar node`
+`brew uninstall node  // Desinstalar node`
 
 ## Referencias
 
