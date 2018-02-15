@@ -1,6 +1,7 @@
-# node-tutorial
+# node
 Este tutorial node.js recoge toda la información relevante para el desarrollo en este entorno de desarrollo.
 
+# Instalacion
 El entorno de node permite ejecutar/interpretar codigo js (javascript) en un equipo, para lo cual se necesita a) instalar un editor b) instalar el runtime node.js.
 
 ## Instalacion editor
@@ -70,9 +71,9 @@ finalmente ejecutar el fichero con el siguiente comando:
 $ node hello.js
 Hello, World!
 ```
-## Tutorial
+# Tutorial
 
-### HelloServer
+## HelloServer
 
 Crea un fichero HelloServer.js con el siguiente codigo:
 ```javascript
@@ -91,7 +92,7 @@ Salva el fichero y ejecuta el comando:
 
 Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost:8080](http://localhost:8080) aparece el mensaje 'Hello Server'
 
-## Referencias
+# Referencias
 [Node.js for beginners](http://www.theprojectspot.com/tutorial-post/Node-js-for-beginners-part-1-hello-world/2)
 [El libro para principiantes en node.js](https://www.nodebeginner.org/index-es.html)
 
