@@ -5,7 +5,7 @@ Este tutorial node.js recoge toda la información relevante para el desarrollo e
 El entorno de node permite ejecutar/interpretar codigo js (javascript) en un equipo, para lo cual se necesita a) instalar un editor b) instalar el runtime node.js.
 
 ## Instalacion editor
-El editor se utiliza para escribir el codigo js. Con un simple editor de texto es suficiente. Cada sistema operativo tiene distintos editores, y ultimamente hay una serie de editores multiplataforma recomendados para programadores por incluir herramientas muy potentes y productivas como las siguientes:
+El editor se utiliza para escribir el codigo js. Con un simple editor de texto es suficiente. Cada sgit istema operativo tiene distintos editores, y ultimamente hay una serie de editores multiplataforma recomendados para programadores por incluir herramientas muy potentes y productivas como las siguientes:
 
 [VisualStudioCode](https://code.visualstudio.com/) es un editor opensource liberado por Microsoft muy utilizado
 
@@ -73,7 +73,9 @@ Hello, World!
 ```
 # Tutorial
 
-## HelloServer
+## 01-HelloWorld
+
+## 02-HelloServer
 
 Crea un fichero HelloServer.js con el siguiente codigo:
 ```javascript
@@ -91,6 +93,32 @@ Salva el fichero y ejecuta el comando:
 `$ node HelloServer.js`
 
 Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost:8080](http://localhost:8080) aparece el mensaje 'Hello Server'
+
+## 03-Counter
+Presentar un contador de accesos facilmente sin necesitar ninguna base de datos creando el fichero '03-Counter.js' con el codigo:
+
+```
+var http = require('http');
+
+var userCount = 0;
+http.createServer(function (request, response) {
+    console.log('New connection');
+    userCount++;
+
+    response.writeHead(200, {'Content-Type': 'text/plain'});
+    response.write('Hello!\n');
+    response.write('We have had '+userCount+' visits!\n');
+    response.end();
+}).listen(8080);
+
+console.log('Server started');
+```
+
+ejecutar el siguiente comando,
+
+`node 03-Counter.js`
+
+Cuando accedemos a [http://localhost:8080](http://localhost:8080) veremos un contador de vistas. El contador aumenta de dos en dos, porque en cada peticion del navegador, también se pide el favicon desde el servidor (http://localhost:8080/favicon.ico). Igualmente el servidor presenta en pantalla dos mensajes por cada petición del navegador.
 
 # Referencias
 [Node.js for beginners](http://www.theprojectspot.com/tutorial-post/Node-js-for-beginners-part-1-hello-world/2)
