@@ -72,8 +72,24 @@ Hello, World!
 ```
 ## Tutorial
 
-### HelloWorld
+### HelloServer
 
+Crea un fichero HelloServer.js con el siguiente codigo:
+```javascript
+var http = require('http');
+
+http.createServer(function (request, response) {
+    response.writeHead(200, {'Content-Type': 'text/plain'});
+    response.end('Hello Server\n');
+}).listen(8080);
+
+console.log('Server started');
+```
+Salva el fichero y ejecuta el comando:
+
+`$ node HelloServer.js`
+
+Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost:8080](http://localhost:8080) aparece el mensaje 'Hello Server'
 
 ## Referencias
 
