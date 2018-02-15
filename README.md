@@ -18,7 +18,7 @@ El ciclo de trabajo es editar el fichero, salvarlo en un fichero y finalmente ej
 Los ficheros de codigo fuente es simplemente javascript. El runtime node.js interprete y ejecuta tus ficheros js.
 Node.js se distribuye como ficheros binarios para instalar en distintos sistemas operativos (Windows, Linux, Mac). 
 
-Descargar la última version del binario para cada sistema operativo desde [Node.js downloadas](nodejs.org/download/)
+Descargar la última version del binario para cada sistema operativo desde [Node.js downloads](nodejs.org/download/)
 
 ### Instalacion Windows
 Usar el fichero instalador msi y seguir las instrucciones del propio instalador para instalar node.js. Por defecto el instalador instala node en el directorio C:\Program Files\nodejs. El instalador actualiza PATH del entorno con directorio C:\Program Files\nodejs\bin. Inicializar línea de comandos abierta para reflejar los cambios.
