@@ -92,6 +92,8 @@ Salva el fichero y ejecuta el comando:
 Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost:8080](http://localhost:8080) aparece el mensaje 'Hello Server'
 
 ## Referencias
+[Node.js for beginners](http://www.theprojectspot.com/tutorial-post/Node-js-for-beginners-part-1-hello-world/2)
+[El libro para principiantes en node.js](https://www.nodebeginner.org/index-es.html)
 
 [Winamp2-js](http://www.microsiervos.com/archivo/musica/winamp-html5-javascript-codigo-abierto.html) El clásico Winamp 2.9 en HTML5 y JavaScript como código abierto.
 
