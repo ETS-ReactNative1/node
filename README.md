@@ -57,17 +57,17 @@ brew upgrade node    // Actualizar node
 brew uninstall node  // Desinstalar node
 ```
 ### Verificar instalacion ejecutando HelloWorld.js
-Crear fichero un fichero hello.js con el siguiente codigo:
+Crear fichero hello.js con el siguiente codigo:
 ```
 $ echo 'console.log("Hello, World!");' > hello.js
 ```
-Editar un fichero con un editor con el siguiente codigo:
+o editar fichero con un editor con el siguiente codigo:
 ```
 console.log("Hello, World!")
 ```
-Ahora ejecutar el fichero con el interprete, para que devuelva el resultado Hello, World!! esperado:
+finalmente ejecutar el fichero con el siguiente comando:
 ```
-$ node main.js
+$ node hello.js
 Hello, World!
 ```
 ## Tutorial
