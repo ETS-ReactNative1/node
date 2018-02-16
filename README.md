@@ -125,6 +125,8 @@ Cuando accedemos a (http://localhost:8080) veremos un contador de vistas. El con
 
 [El libro para principiantes en node.js](https://www.nodebeginner.org/index-es.html)
 
+[Digital Transformation with the Node.js DevOps Stack], PayPal, Netflix, and Walmart show the way to do rapid digital transformation of legacy systems
+
 [Winamp2-js](http://www.microsiervos.com/archivo/musica/winamp-html5-javascript-codigo-abierto.html) El clásico Winamp 2.9 en HTML5 y JavaScript como código abierto.
 
 
