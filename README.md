@@ -75,6 +75,14 @@ Hello, World!
 
 ## 01-HelloWorld
 
+Crear fichero hello.js con editor o con el siguiente codigo:
+
+```
+$ echo 'console.log("Hello, World!");' > hello.js
+$ node hello.js
+Hello, World!
+```
+
 ## 02-HelloServer
 
 Crea un fichero HelloServer.js con el siguiente codigo:
@@ -126,6 +134,10 @@ Cuando accedemos a (http://localhost:8080) veremos un contador de vistas. El con
 [El libro para principiantes en node.js](https://www.nodebeginner.org/index-es.html)
 
 [Digital Transformation with the Node.js DevOps Stack](https://github.com/jjfalcon/node/blob/master/node-js-devops-stack-transformation.pdf), PayPal, Netflix, and Walmart show the way to do rapid digital transformation of legacy systems
+
+# Ejemplos
+
+[Crear una BlockChain en Node.js](https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b) sirve para aprender que es una Blockchain, creando una simplificacion con Node.js
 
 [Winamp2-js](http://www.microsiervos.com/archivo/musica/winamp-html5-javascript-codigo-abierto.html) El clásico Winamp 2.9 en HTML5 y JavaScript como código abierto.
 
