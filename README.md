@@ -75,6 +75,14 @@ Hello, World!
 
 ## 01-HelloWorld
 
+Crear fichero hello.js con editor o con el siguiente codigo:
+
+```
+$ echo 'console.log("Hello, World!");' > hello.js
+$ node hello.js
+Hello, World!
+```
+
 ## 02-HelloServer
 
 Crea un fichero HelloServer.js con el siguiente codigo:
@@ -134,6 +142,19 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 [Digital Transformation with the Node.js DevOps Stack](https://github.com/jjfalcon/node/blob/master/node-js-devops-stack-transformation.pdf), PayPal, Netflix, and Walmart show the way to do rapid digital transformation of legacy systems
 
+[How Fintonic uses Node.js, MongoDB & Kubernetes to scale](https://community.risingstack.com/how-fintonic-uses-nodejs-mongodb-kubernetes/), es un artículo sobre la arquitectura y escalabilidad de Fintonic.
+
+# Recomendaciones
+
+[How to prevent your Node.js process from crashing](https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2). Una promesa sin manejar actualmente provoca un mensaje de aviso, pero en el futuro avisa que provocara el cierre del proceso node con un codigo de salida de error. Este artículo indica como reaccionar por programa a esas promesas sin manejar, por ejemplo enviando la pila de traza a uns servicio de reporting con el objetivo de tener la información y mantener el proceso activo.
+
+# Ejemplos
+
+[Crear una BlockChain en Node.js](https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b) sirve para aprender que es una Blockchain, creando una simplificacion con Node.js
+
 [Winamp2-js](http://www.microsiervos.com/archivo/musica/winamp-html5-javascript-codigo-abierto.html) El clásico Winamp 2.9 en HTML5 y JavaScript como código abierto.
+
+[Build a complete mobile app with Ionic 3](https://medium.com/learn-ionic-framework/build-a-complete-mobile-app-with-ionic-3-b69a8bfb0d88)
+For this ionic tutorial I built an app with a question and answer format, where users will be able to ask and answer questions. The home page will have a list of categories. Each category will have a list of questions, and each question will have a list of answers. Users will also have the possibility to vote the questions and answers, plus a form for creating questions and answers.
 
 
