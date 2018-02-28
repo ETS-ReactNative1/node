@@ -120,6 +120,13 @@ ejecutar el siguiente comando,
 
 Cuando accedemos a (http://localhost:8080) veremos un contador de vistas. El contador aumenta de dos en dos, porque en cada peticion del navegador, también se pide el favicon desde el servidor (http://localhost:8080/favicon.ico). Igualmente el servidor presenta en pantalla dos mensajes por cada petición del navegador.
 
+## 04 - [Callbacks](http://www.theprojectspot.com/tutorial-post/nodejs-for-beginners-callbacks/4)
+
+Now we're going to take a look at callbacks and what makes them so useful.
+
+## 05 - [server_http](https://www.nodebeginner.org/index-es.html)
+
+
 # Referencias
 [Node.js for beginners](http://www.theprojectspot.com/tutorial-post/Node-js-for-beginners-part-1-hello-world/2)
 
