@@ -134,6 +134,8 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 ## 05 - [server_http](https://www.nodebeginner.org/index-es.html)
 
+## TODO
+[JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg) una demo muy basica y dinamica de como funciona javascript en browser.
 
 # Referencias
 [Node.js for beginners](http://www.theprojectspot.com/tutorial-post/Node-js-for-beginners-part-1-hello-world/2)
