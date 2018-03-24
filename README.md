@@ -45,6 +45,7 @@ La instalación en Mac de node y npm se recomienda seguir la instalación desde 
 Instalar Homebrew con el siguiente comando en la terminal:
 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 Homebrew es un gestor de paquetes para Mac al estilo de apt-get en Linux. Para instalar node usar los comandos:
 
@@ -135,7 +136,12 @@ Now we're going to take a look at callbacks and what makes them so useful.
 ## 05 - [server_http](https://www.nodebeginner.org/index-es.html)
 
 ## TODO
+[MONTAR UN API REST CON NODEJS Y EXPRESS](https://www.luisllamas.es/montar-un-api-rest-con-nodejs-y-express/)
+[Como crear una API REST usando node express mongoDB](https://carlosazaustre.es/como-crear-una-api-rest-usando-node-js/)
+
 [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg) una demo muy basica y dinamica de como funciona javascript en browser.
+
+[Los 10 mejores ejemplos de aplicaciones Node.js para empresas](http://inubo.es/noticia/los-10-mejores-ejemplos-de-aplicaciones-node-js-para-empresas)
 
 # Referencias
 [Node.js for beginners](http://www.theprojectspot.com/tutorial-post/Node-js-for-beginners-part-1-hello-world/2)
