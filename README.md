@@ -138,6 +138,7 @@ Now we're going to take a look at callbacks and what makes them so useful.
 ## 05 - [server_http](https://www.nodebeginner.org/index-es.html)
 
 # TODO
+[Tutorial : Flutter App powered by Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957)
 [Structuring JavaScript projects for testability](Structuring JavaScript projects for testability)
 [Is async / await useless?](https://www.youtube.com/watch?v=ho5PnBOoacw)
 [10 Tips for Javascript Debugging Like a PRO with Console](https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6)
@@ -157,6 +158,7 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 # Herramientas
 [Flutter](https://flutter.io)
+[Why we chose Flutter and how it’s changed our company for the better.](https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60)
 [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 [NPM scripts como task runner](https://blog.builtbyedgar.com/npm-scripts-como-task-runner/)
 
