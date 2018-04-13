@@ -140,6 +140,7 @@ Now we're going to take a look at callbacks and what makes them so useful.
 # TODO
 [Structuring JavaScript projects for testability](Structuring JavaScript projects for testability)
 [Is async / await useless?](https://www.youtube.com/watch?v=ho5PnBOoacw)
+[10 Tips for Javascript Debugging Like a PRO with Console](https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6)
 
 [Iniciación a NodeJS con ejemplos básicos](https://github.com/LuisJoseSanchez/nodejs-iniciacion/blob/master/README.md)
 [NodeJS, Express y Jade (Pug). Ejemplos básicos.](https://github.com/LuisJoseSanchez/nodejs-express-jade/blob/master/README.md)
@@ -211,3 +212,6 @@ For this ionic tutorial I built an app with a question and answer format, where 
 [¿Por qué deberías convertir tu Mobile Site en una aplicación web progresiva (PWA)?](http://inubo.es/noticia/por-que-deberias-convertir-tu-mobile-site-en-una-aplicacion-web-progresiva-pwa)
 
 [Los 10 mejores ejemplos de aplicaciones Node.js para empresas](http://inubo.es/noticia/los-10-mejores-ejemplos-de-aplicaciones-node-js-para-empresas)
+
+[Calculadoras online](https://hipertextual.com/2018/03/calculadoras-online/amp)
+
