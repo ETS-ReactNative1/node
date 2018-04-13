@@ -166,6 +166,8 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 * https://ngrok.com/
 * https://serveo.net/
 
+[Everyone can now run JavaScript on Cloudflare with Workers](https://blog.cloudflare.com/cloudflare-workers-unleashed/)
+
 # Referencias
 [Guía Estilo Google para js](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b)
 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
@@ -181,6 +183,10 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 # Recomendaciones
 
 [How to prevent your Node.js process from crashing](https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2). Una promesa sin manejar actualmente provoca un mensaje de aviso, pero en el futuro avisa que provocara el cierre del proceso node con un codigo de salida de error. Este artículo indica como reaccionar por programa a esas promesas sin manejar, por ejemplo enviando la pila de traza a uns servicio de reporting con el objetivo de tener la información y mantener el proceso activo.
+
+# Videos/Charlas
+
+[Hacking de Videojuegos con JavaScript](https://www.youtube.com/watch?v=XJJS1HrV2_Y) Recomendada por Bonilla
 
 # Ejemplos
 [Awesome Node.js opensource projects](https://github.com/sqreen/awesome-nodejs-projects)
