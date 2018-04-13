@@ -137,7 +137,7 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 ## 05 - [server_http](https://www.nodebeginner.org/index-es.html)
 
-## TODO
+# TODO
 [MONTAR UN API REST CON NODEJS Y EXPRESS](https://www.luisllamas.es/montar-un-api-rest-con-nodejs-y-express/)
 [Como crear una API REST usando node express mongoDB](https://carlosazaustre.es/como-crear-una-api-rest-usando-node-js/)
 
@@ -145,7 +145,18 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 [Los 10 mejores ejemplos de aplicaciones Node.js para empresas](http://inubo.es/noticia/los-10-mejores-ejemplos-de-aplicaciones-node-js-para-empresas)
 
+# Herramientas
+[You do console.log in any place of the code WITHOUT code modification](https://twitter.com/lavrton/status/979649815356166144?refsrc)
+With @ChromeDevTools you can create "conditional breakpoint". If you add console.log into the condition, the debugger will not pause, because console.log returns undefined.
+
+[Local Servers with public URLs]
+* https://ngrok.com/
+* https://serveo.net/
+
 # Referencias
+[Guía Estilo Google para js](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b)
+[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
 [Node.js for beginners](http://www.theprojectspot.com/tutorial-post/Node-js-for-beginners-part-1-hello-world/2)
 
 [El libro para principiantes en node.js](https://www.nodebeginner.org/index-es.html)
@@ -167,4 +178,7 @@ Now we're going to take a look at callbacks and what makes them so useful.
 [Build a complete mobile app with Ionic 3](https://medium.com/learn-ionic-framework/build-a-complete-mobile-app-with-ionic-3-b69a8bfb0d88)
 For this ionic tutorial I built an app with a question and answer format, where users will be able to ask and answer questions. The home page will have a list of categories. Each category will have a list of questions, and each question will have a list of answers. Users will also have the possibility to vote the questions and answers, plus a form for creating questions and answers.
 
+[Friendly Pix](https://github.com/firebase/friendlypix) es un clon de Instagram desarrollado por Google como aplicacion de ejemplo usando Firebase.
 
+[How to Create a Slack App in 3 Minutes](https://x-team.com/blog/create-slack-app-in-3-minutes/)
+[A Slack app step by step](https://x-team.com/blog/slack-app-step-by-step/)
