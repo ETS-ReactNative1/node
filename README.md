@@ -129,9 +129,14 @@ ejecutar el siguiente comando,
 
 Cuando accedemos a (http://localhost:8080) veremos un contador de vistas. El contador aumenta de dos en dos, porque en cada peticion del navegador, también se pide el favicon desde el servidor (http://localhost:8080/favicon.ico). Igualmente el servidor presenta en pantalla dos mensajes por cada petición del navegador.
 
-## 04 - [Callbacks](http://www.theprojectspot.com/tutorial-post/nodejs-for-beginners-callbacks/4)
+## 04 - ASYNC/SYNC
 
+[Callbacks](http://www.theprojectspot.com/tutorial-post/nodejs-for-beginners-callbacks/4)
 Now we're going to take a look at callbacks and what makes them so useful.
+
+[Creando y utilizando callbacks](https://fernetjs.com/2011/12/creando-y-utilizando-callbacks/)
+
+[Is async / await useless?](https://www.youtube.com/watch?v=ho5PnBOoacw)
 
 [Write Your Own Node.js Promise Library from Scratch](http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html)
 
@@ -139,27 +144,38 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 # TODO
 [Tutorial : Flutter App powered by Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957)
+
 [Structuring JavaScript projects for testability](Structuring JavaScript projects for testability)
-[Is async / await useless?](https://www.youtube.com/watch?v=ho5PnBOoacw)
+
 [10 Tips for Javascript Debugging Like a PRO with Console](https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6)
 
 [Iniciación a NodeJS con ejemplos básicos](https://github.com/LuisJoseSanchez/nodejs-iniciacion/blob/master/README.md)
+
 [NodeJS, Express y Jade (Pug). Ejemplos básicos.](https://github.com/LuisJoseSanchez/nodejs-express-jade/blob/master/README.md)
+
 [Aplicaciones de alto rendimiento con Node.js (V). Ejemplos de conexion a BBDD
 ](https://www.sidertia.com/Home/Community/Blog/2015/04/27/Aplicaciones-de-alto-rendimiento-con-Nodejs-V-Ejemplos-de-conexion-a-BBDD)
 
 [Express.js Tutorial: Building RESTful APIs with Node and Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+
 [MONTAR UN API REST CON NODEJS Y EXPRESS](https://www.luisllamas.es/montar-un-api-rest-con-nodejs-y-express/)
+
 [Como crear una API REST usando node express mongoDB](https://carlosazaustre.es/como-crear-una-api-rest-usando-node-js/)
+
 [Iniciación a NodeJS con ejemplos básicos](https://github.com/LuisJoseSanchez/nodejs-iniciacion/blob/master/README.md)
+
 [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg) una demo muy basica y dinamica de como funciona javascript en browser.
+
 [Live Coding a Trello Clone with AngularJS and Node.js (MEAN stack)](https://www.youtube.com/watch?v=ssXqKDS2dlw)
 
 
 # Herramientas
 [Flutter](https://flutter.io)
+
 [Why we chose Flutter and how it’s changed our company for the better.](https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60)
+
 [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+
 [NPM scripts como task runner](https://blog.builtbyedgar.com/npm-scripts-como-task-runner/)
 
 [You do console.log in any place of the code WITHOUT code modification](https://twitter.com/lavrton/status/979649815356166144?refsrc)
