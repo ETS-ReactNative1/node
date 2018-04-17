@@ -131,6 +131,10 @@ Cuando accedemos a (http://localhost:8080) veremos un contador de vistas. El con
 
 ## 04 - ASYNC/SYNC
 
+[Formas de manejar la asincronía en JavaScript](https://carlosazaustre.es/manejando-la-asincronia-en-javascript/)
+
+[callbacks promesas y async-await](https://medium.com/@jmz12/callbacks-promesas-y-async-await-que-alguien-me-explique-514137cb57e2)
+
 [Callbacks](http://www.theprojectspot.com/tutorial-post/nodejs-for-beginners-callbacks/4)
 Now we're going to take a look at callbacks and what makes them so useful.
 
