@@ -149,6 +149,7 @@ Now we're going to take a look at callbacks and what makes them so useful.
 ## 05 - [server_http](https://www.nodebeginner.org/index-es.html)
 
 # TODO
+
 [Tutorial : Flutter App powered by Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957)
 
 [Structuring JavaScript projects for testability](Structuring JavaScript projects for testability)
@@ -174,8 +175,10 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 [Live Coding a Trello Clone with AngularJS and Node.js (MEAN stack)](https://www.youtube.com/watch?v=ssXqKDS2dlw)
 
+[Implementing SOLID and the onion architecture in Node.js with TypeScript and InversifyJS](https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad)
 
 # Herramientas
+
 [Flutter](https://flutter.io)
 
 [Why we chose Flutter and how it’s changed our company for the better.](https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60)
@@ -195,6 +198,7 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 # Referencias
 [Guía Estilo Google para js](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b)
+
 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 [Node.js for beginners](http://www.theprojectspot.com/tutorial-post/Node-js-for-beginners-part-1-hello-world/2)
@@ -214,6 +218,7 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 [Hacking de Videojuegos con JavaScript](https://www.youtube.com/watch?v=XJJS1HrV2_Y) Recomendada por Bonilla
 
 # Ejemplos
+
 [Awesome Node.js opensource projects](https://github.com/sqreen/awesome-nodejs-projects)
 
 [Crear una BlockChain en Node.js](https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b) sirve para aprender que es una Blockchain, creando una simplificacion con Node.js
