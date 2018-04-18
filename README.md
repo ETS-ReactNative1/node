@@ -103,6 +103,14 @@ Salva el fichero y ejecuta el comando:
 
 Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost:8080](http://localhost:8080) aparece el mensaje 'Hello Server'
 
+## 03-Testing
+
+[Curso de Testing Javascript Moderno](http://www.etnassoft.com/2013/10/16/curso-de-testing-javascript-moderno-parte-1-introduccion-y-herramientas/)
+
+[Lo mejor y peor de Mocha y de los unit tests en JavaScript](https://solidgeargroup.com/mocha-unit-tests-en-javascript?lang=es)
+
+[A TDD Approach to Building a Todo API Using Node.js and MongoDB](https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb)
+
 ## 03-Counter
 Presentar un contador de accesos facilmente sin necesitar ninguna base de datos creando el fichero '03-Counter.js' con el codigo:
 
