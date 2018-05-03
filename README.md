@@ -160,6 +160,15 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 [ggalmazor - Refactoring to functions workshop](https://github.com/ggalmazor/string-calculator-es6-refactor-workshop)
 
+This is a NodeJS project. You should do the following steps build:
+
+NodeJS 6 or greater is required
+`git clone https://github.com/ggalmazor/string-calculator-es6-refactor-workshop.git`
+Enter directory cloned `cd string-calculator-es6-refactor-workshop`
+Download dependencies with `npm install` or `yarn`
+Run the tests with `npm run test` or `yarn test`
+If you can follow these steps and you get a report of 7 passing tests, sit back and relax.
+
 [Demystifying JavaScript’s ‘new’ keyword](https://medium.freecodecamp.org/demystifying-javascripts-new-keyword-874df126184c)
 
 [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
