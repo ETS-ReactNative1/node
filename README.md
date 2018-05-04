@@ -158,6 +158,8 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 # TODO
 
+[Cómo crear un API REST con autenticacion en 30 segundos](https://www.desarrolloweb.com/articulos/api-rest--autenticacion-jwt.html)
+
 [ggalmazor - Refactoring to functions workshop](https://github.com/ggalmazor/string-calculator-es6-refactor-workshop)
 
 This is a NodeJS project. You should do the following steps build:
