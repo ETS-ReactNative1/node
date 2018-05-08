@@ -245,6 +245,8 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 # Ejemplos
 
+[A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)
+
 [Awesome Node.js opensource projects](https://github.com/sqreen/awesome-nodejs-projects)
 
 [Crear una BlockChain en Node.js](https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b) sirve para aprender que es una Blockchain, creando una simplificacion con Node.js
