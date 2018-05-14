@@ -158,6 +158,8 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 # TODO
 
+[Node.js, Express.js, Mongoose.js and Passport.js Authentication](https://www.djamware.com/post/58bd823080aca7585c808ebf/nodejs-expressjs-mongoosejs-and-passportjs-authentication)
+
 [Cómo crear un API REST con autenticacion en 30 segundos](https://www.desarrolloweb.com/articulos/api-rest--autenticacion-jwt.html)
 
 [ggalmazor - Refactoring to functions workshop](https://github.com/ggalmazor/string-calculator-es6-refactor-workshop)
