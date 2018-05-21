@@ -211,6 +211,8 @@ If you can follow these steps and you get a report of 7 passing tests, sit back 
 
 # Herramientas
 
+[Top JavaScript VSCode Extensions for Faster Development](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
+
 [Flutter](https://flutter.io)
 
 [Why we chose Flutter and how it’s changed our company for the better.](https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60)
