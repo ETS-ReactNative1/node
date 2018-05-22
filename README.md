@@ -160,6 +160,8 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 # TODO
 
+[Como hacer una App Lista de Tareas con Javascript](https://www.youtube.com/watch?v=QEp5MwFneRQ&index=23&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G) tutorial dentro de un buen curso Básico de Javascript desde 0
+
 [Build a Serverless Online Quiz with Google Cloud Functions and Cloud Firestore](https://rominirani.com/build-a-serverless-online-quiz-with-google-cloud-functions-and-cloud-firestore-1e3fbf84a7d8)
 
 [Node.js, Express.js, Mongoose.js and Passport.js Authentication](https://www.djamware.com/post/58bd823080aca7585c808ebf/nodejs-expressjs-mongoosejs-and-passportjs-authentication)
