@@ -241,6 +241,10 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 [Everyone can now run JavaScript on Cloudflare with Workers](https://blog.cloudflare.com/cloudflare-workers-unleashed/)
 
 # Referencias
+
+[2018 NODE.JS USER STUDY DETAILED REPORT OF FINDINGS](https://nodejs.org/en/user-survey-report/2018-nodejs-user-survey-report.pdf) Node.js is emerging as a universal development framework for digital transformation with a broad diversity of applications. With nearly 10 million Node.js users, three in four users are planning to increase their use of Node.js in the next 12 months. Node users continue to report positive business impact, including improving developer productivity and 
+satisfaction and lowering cost.
+
 [Guía Estilo Google para js](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b)
 
 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
