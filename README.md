@@ -162,6 +162,8 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 # TODO
 
+[How to deploy a Node.js application to AWS Lambda using Serverless](https://dev.to/adnanrahic/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless-2nc7)
+
 [Tu primera Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=es)
 [Demo Progressive Web App](https://github.com/gokulkrishh/demo-progressive-web-app)
 [Offline-First Progressive Web Apps (PWA) in Vue.js](https://egghead.io/courses/offline-first-progressive-web-apps-pwa-in-vue-js)
