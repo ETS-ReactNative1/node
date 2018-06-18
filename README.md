@@ -115,6 +115,14 @@ Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost
 
 [End to End Testing with Google's Puppeteer and Jest](https://egghead.io/courses/end-to-end-testing-with-google-s-puppeteer-and-jest)
 
+[Pruebas asíncronas en node.js](http://pinchito.es/2013/pruebas-asincronas.html)
+
+[An Async Example](https://facebook.github.io/jest/docs/es-ES/tutorial-async.html#)
+
+[Jest. Matchers](https://doc.ebichu.cc/jest/docs/es-ES/using-matchers.html#content)
+
+[Testing Asynchronous Code](https://doc.ebichu.cc/jest/docs/en/asynchronous.html)
+
 ## 03-Counter
 Presentar un contador de accesos facilmente sin necesitar ninguna base de datos creando el fichero '03-Counter.js' con el codigo:
 
