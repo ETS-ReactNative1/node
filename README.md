@@ -158,6 +158,8 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 [Write Your Own Node.js Promise Library from Scratch](http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html)
 
+[Pruebas asíncronas en node.js](http://pinchito.es/2013/pruebas-asincronas.html)
+
 ## 05 - [server_http](https://www.nodebeginner.org/index-es.html)
 
 # TODO
