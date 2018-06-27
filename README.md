@@ -24,6 +24,8 @@ Descargar la última version del binario para cada sistema operativo desde [Node
 ### Instalacion Windows
 Usar el fichero instalador msi y seguir las instrucciones del propio instalador para instalar node.js. Por defecto el instalador instala node en el directorio C:\Program Files\nodejs. El instalador actualiza PATH del entorno con directorio C:\Program Files\nodejs\bin. Inicializar línea de comandos abierta para reflejar los cambios.
 
+[Setting Up Windows to Build and Run Node.js Applications ](https://spin.atomicobject.com/2018/06/18/windows-node-js/)
+
 ### Instalacion Unix/Linux/Mac
 Descargar el fichero basado en tu arquitectura, extraerlo en un directorio temporal, y finalmente moverlo al directorio /usr/local/nodejs, con los siguientes comandos:
 
