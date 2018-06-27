@@ -168,6 +168,8 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 [Pruebas asíncronas en node.js](http://pinchito.es/2013/pruebas-asincronas.html)
 
+[Ejemplos de carga síncrona y asíncrona de Javascript. Problemas y soluciones](http://rolandocaldas.com/html5/carga-asincrona-de-javascriptt)
+
 ## 05 - [server_http](https://www.nodebeginner.org/index-es.html)
 
 # TODO
