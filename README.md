@@ -176,6 +176,12 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 # TODO
 
+1. How to use Chrome DevTools to do modern web development right in your browser (50 minute watch): https://www.youtube.com/watch?v=wz1Sy5C039M
+
+2. An overview of Visual Studio Code - Microsoft's open source code editor - for front-end developers (8 minute read): https://medium.freecodecamp.org/49a4aa0771fb
+
+4. How to build Desktop apps in JavaScript: multithreading, SQLite, native modules, and other common Electron pain points (9 minute read): https://medium.freecodecamp.org/1679d5ec0ac
+
 [Ahora puedes implementar tu app de Node.js en el entorno estándar de App Engine](https://developers-latam.googleblog.com/2018/06/blog-de-google-cloud-platform-ahora.html)
 
 [How to deploy a Node.js application to AWS Lambda using Serverless](https://dev.to/adnanrahic/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless-2nc7)
