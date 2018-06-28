@@ -322,3 +322,10 @@ For this ionic tutorial I built an app with a question and answer format, where 
 
 [Calculadoras online](https://hipertextual.com/2018/03/calculadoras-online/amp)
 
+1. How to build your own 8-Ball Pool game from scratch using JavaScript and HTML5 - a comprehensive video tutorial (1 hour watch): https://www.youtube.com/watch?v=aXwCrtAo4Wc
+
+2. JavaScript symbols, iterators, generators, async/await, and async iterators — all explained simply (14 minute read): https://medium.freecodecamp.org/4003d7bbed32
+
+3. How to use JavaScript Regular Expressions to rapidly search through text (12 minute read): https://medium.freecodecamp.org/48b46a68df29
+
+4. How to code your own YouTube app: a full YouTube API tutorial with code examples (1 hour watch): https://www.youtube.com/watch?v=9sWEecNUW-o
