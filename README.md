@@ -270,6 +270,8 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 # Referencias
 
+3. Did you know that Google has its own JavaScript style guide? It lays out best practices for writing clean, understandable code. Here are some of the highlights (7 minute read): https://fcc.im/2GtBwN3
+
 [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms#readme)
 
 [2018 NODE.JS USER STUDY DETAILED REPORT OF FINDINGS](https://nodejs.org/en/user-survey-report/2018-nodejs-user-survey-report.pdf) Node.js is emerging as a universal development framework for digital transformation with a broad diversity of applications. With nearly 10 million Node.js users, three in four users are planning to increase their use of Node.js in the next 12 months. Node users continue to report positive business impact, including improving developer productivity and 
