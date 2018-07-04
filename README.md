@@ -176,6 +176,8 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 # TODO
 
+[Installable Web Apps: A Practical Introduction To PWAs with JavaScript and Node.js](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html)
+
 1. How to use Chrome DevTools to do modern web development right in your browser (50 minute watch): https://www.youtube.com/watch?v=wz1Sy5C039M
 
 2. An overview of Visual Studio Code - Microsoft's open source code editor - for front-end developers (8 minute read): https://medium.freecodecamp.org/49a4aa0771fb
