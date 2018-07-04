@@ -175,9 +175,14 @@ Now we're going to take a look at callbacks and what makes them so useful.
 ## 05 - [server_http](https://www.nodebeginner.org/index-es.html)
 
 # TODO
+
+[Build A Simple Beginner App With Node, Bootstrap & MongoDB](https://www.sitepoint.com/build-simple-beginner-app-node-bootstrap-mongodb/)
+
 [Create a simple weather app using Node.js, Express, and React](https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a)
 
 [Installable Web Apps: A Practical Introduction To PWAs with JavaScript and Node.js](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html)
+
+[Offline-First with Node.js and Hoodie: A Practical Introduction to Progressive Web Apps](https://dev.to/pmbanugo/offline-first-with-nodejs-and-hoodie-a-practical-introduction-to-progressive-web-apps-5f57)
 
 1. How to use Chrome DevTools to do modern web development right in your browser (50 minute watch): https://www.youtube.com/watch?v=wz1Sy5C039M
 
@@ -250,6 +255,8 @@ If you can follow these steps and you get a report of 7 passing tests, sit back 
 
 # Herramientas
 
+[Using Prettier to Format Your JavaScript Code](https://www.wisdomgeek.com/web-development/using-prettier-format-javascript-code/)
+
 [Noderize](https://github.com/Cretezy/Noderize) Noderize lets you create Node apps in less than 30 seconds. 
 
 [Top JavaScript VSCode Extensions for Faster Development](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
@@ -273,6 +280,8 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 # Referencias
 
+[A JavaScript String Methods Cheatsheet](https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d)
+
 3. Did you know that Google has its own JavaScript style guide? It lays out best practices for writing clean, understandable code. Here are some of the highlights (7 minute read): https://fcc.im/2GtBwN3
 
 [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms#readme)
@@ -295,6 +304,8 @@ satisfaction and lowering cost.
 # Recomendaciones
 
 [How to prevent your Node.js process from crashing](https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2). Una promesa sin manejar actualmente provoca un mensaje de aviso, pero en el futuro avisa que provocara el cierre del proceso node con un codigo de salida de error. Este artículo indica como reaccionar por programa a esas promesas sin manejar, por ejemplo enviando la pila de traza a uns servicio de reporting con el objetivo de tener la información y mantener el proceso activo.
+
+[Implementing Feature Flags with Node and React](https://blog.sicara.com/feature-flags-nodejs-continuous-delivery-c245264b52b4)
 
 # Videos/Charlas
 
