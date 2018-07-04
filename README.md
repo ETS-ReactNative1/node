@@ -175,6 +175,7 @@ Now we're going to take a look at callbacks and what makes them so useful.
 ## 05 - [server_http](https://www.nodebeginner.org/index-es.html)
 
 # TODO
+[Create a simple weather app using Node.js, Express, and React](https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a)
 
 [Installable Web Apps: A Practical Introduction To PWAs with JavaScript and Node.js](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html)
 
