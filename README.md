@@ -351,3 +351,5 @@ For this ionic tutorial I built an app with a question and answer format, where 
 3. How to use JavaScript Regular Expressions to rapidly search through text (12 minute read): https://medium.freecodecamp.org/48b46a68df29
 
 4. How to code your own YouTube app: a full YouTube API tutorial with code examples (1 hour watch): https://www.youtube.com/watch?v=9sWEecNUW-o
+
+[Building a Snipping Tool with Electron, React and Node.js](https://quantizd.com/building-a-snipping-tool-with-electron-react-and-node-js/)
