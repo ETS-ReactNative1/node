@@ -180,6 +180,8 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 [Create a simple weather app using Node.js, Express, and React](https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a)
 
+[Twitter Sentiment Analysis using NodeJS](https://boostlog.io/@anshulc95/twitter-sentiment-analysis-using-nodejs-5ad1331247018500491f3b6a)
+
 [Installable Web Apps: A Practical Introduction To PWAs with JavaScript and Node.js](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html)
 
 [Offline-First with Node.js and Hoodie: A Practical Introduction to Progressive Web Apps](https://dev.to/pmbanugo/offline-first-with-nodejs-and-hoodie-a-practical-introduction-to-progressive-web-apps-5f57)
