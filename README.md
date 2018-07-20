@@ -125,6 +125,8 @@ Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost
 
 [Testing Asynchronous Code](https://doc.ebichu.cc/jest/docs/en/asynchronous.html)
 
+[An Async Example](https://jestjs.io/docs/es-ES/tutorial-async.html)
+
 ## 03-Counter
 Presentar un contador de accesos facilmente sin necesitar ninguna base de datos creando el fichero '03-Counter.js' con el codigo:
 
