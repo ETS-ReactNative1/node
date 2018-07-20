@@ -109,6 +109,8 @@ Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost
 
 [What is a JavaScript test?](https://www.javascriptjanuary.com/blog/but-really-what-is-a-javascript-test)
 
+[Unit testing in JavaScript Part 3 - Test runners](https://www.youtube.com/watch?reload=9&v=pdx2HjFRaJY&feature=em-subs_digest)
+
 [Curso de Testing Javascript Moderno](http://www.etnassoft.com/2013/10/16/curso-de-testing-javascript-moderno-parte-1-introduccion-y-herramientas/)
 
 [Lo mejor y peor de Mocha y de los unit tests en JavaScript](https://solidgeargroup.com/mocha-unit-tests-en-javascript?lang=es)
