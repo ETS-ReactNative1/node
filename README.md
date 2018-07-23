@@ -261,6 +261,8 @@ If you can follow these steps and you get a report of 7 passing tests, sit back 
 
 [Implementing SOLID and the onion architecture in Node.js with TypeScript and InversifyJS](https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad)
 
+[The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
+
 # Herramientas
 
 [Using Prettier to Format Your JavaScript Code](https://www.wisdomgeek.com/web-development/using-prettier-format-javascript-code/)
