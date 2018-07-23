@@ -180,6 +180,11 @@ Now we're going to take a look at callbacks and what makes them so useful.
 
 ## 05 - [server_http](https://www.nodebeginner.org/index-es.html)
 
+[Build a Basic CRUD App with Vue.js and Node](https://www.sitepoint.com/build-a-basic-crud-app-with-vue-js-and-node/)
+This tutorial will take you step by step through scaffolding a Vue.js project, offloading secure authentication to Okta’s OpenID Connect API (OIDC), locking down protected routes, and performing CRUD operations through a backend REST API server. This tutorial uses the following technologies but doesn’t require intimate knowledge to follow along:
+* Vue.js with vue-cli, vue-router, and Okta Vue SDK
+* Node with Express, Okta JWT Verifier, Sequelize, and Epilogue
+
 # TODO
 
 [Build A Simple Beginner App With Node, Bootstrap & MongoDB](https://www.sitepoint.com/build-simple-beginner-app-node-bootstrap-mongodb/)
