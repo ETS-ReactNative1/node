@@ -1,6 +1,8 @@
 # node
 Este tutorial node.js recoge toda la información relevante para el desarrollo en este entorno de desarrollo.
 
+[Instalación](https://github.com/jjfalcon/node/blob/master/01-instalacion.md)
+
 # Instalacion
 El entorno de node permite ejecutar/interpretar codigo js (javascript) en un equipo, para lo cual se necesita a) instalar un editor b) instalar el runtime node.js.
 
