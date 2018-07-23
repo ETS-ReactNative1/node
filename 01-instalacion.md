@@ -1,7 +1,7 @@
 # Instalacion
 El entorno de node permite ejecutar/interpretar codigo js (javascript) en un equipo, para lo cual se necesita
-* a) instalar un editor 
-* b) instalar el runtime node.js
+* instalar un editor 
+* instalar el runtime node.js
 
 ## Instalacion editor
 El editor se utiliza para escribir el codigo js. Con un simple editor de texto es suficiente. Cada sgit istema operativo tiene distintos editores, y ultimamente hay una serie de editores multiplataforma recomendados para programadores por incluir herramientas muy potentes y productivas como las siguientes:
