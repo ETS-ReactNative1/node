@@ -1,24 +1,21 @@
 # Instalacion
 El entorno de node permite ejecutar/interpretar codigo js (javascript) en un equipo, para lo cual se necesita
-* instalar un editor 
-* instalar el runtime node.js
+- Instalar editor de código 
+- Instalar runtime node.js
 
-## Instalacion editor
-El editor se utiliza para escribir el codigo js. Con un simple editor de texto es suficiente. Cada sgit istema operativo tiene distintos editores, y ultimamente hay una serie de editores multiplataforma recomendados para programadores por incluir herramientas muy potentes y productivas como las siguientes:
-
-[VisualStudioCode](https://code.visualstudio.com/) es un editor opensource liberado por Microsoft muy utilizado
-
-[Atom](https://atom.io/) es un editor opensource algo menos utilizado
+## Instalar editor de código
+El editor se utiliza para escribir el codigo js. Con un simple editor de texto es suficiente. Cada sistema operativo tiene distintos editores, y ultimamente hay una serie de editores multiplataforma recomendados para programadores por incluir herramientas muy potentes y productivas como las siguientes:
+- [VisualStudioCode](https://code.visualstudio.com/) es un editor opensource liberado por Microsoft muy utilizado
+- [Atom](https://atom.io/) es un editor opensource algo menos utilizado
 
 Los ficheros creados con estos editores contienen el codigo fuente del programa, y son ficheros con extension js 
 El ciclo de trabajo es editar el fichero, salvarlo en un fichero y finalmente ejecutarlo con el runtime.
 
-## Instalacion runtime node.js
+## Instalar runtime node.js
 
-Los ficheros de codigo fuente es simplemente javascript. El runtime node.js interprete y ejecuta tus ficheros js.
+Los ficheros de codigo fuente es simplemente javascript. El runtime node.js interpreta y ejecuta tus ficheros js.
 Node.js se distribuye como ficheros binarios para instalar en distintos sistemas operativos (Windows, Linux, Mac). 
-
-Descargar la última version del binario para cada sistema operativo desde [Node.js downloads](nodejs.org/download/)
+Descargar la última version del binario para cada sistema operativo desde [Node.js downloads](nodejs.org/download/) y seguir las instrucciones para cada sistema operativo tal como se presenta a continuación:
 
 ### Instalacion Windows
 Usar el fichero instalador msi y seguir las instrucciones del propio instalador para instalar node.js. Por defecto el instalador instala node en el directorio C:\Program Files\nodejs. El instalador actualiza PATH del entorno con directorio C:\Program Files\nodejs\bin. Inicializar línea de comandos abierta para reflejar los cambios.
@@ -59,7 +56,7 @@ brew update          // Actualizar Homebrew a la ultima version
 brew upgrade node    // Actualizar node
 brew uninstall node  // Desinstalar node
 ```
-### Verificar instalacion ejecutando HelloWorld.js
+### Verificar instalacion ejecutando HelloWorld.js para cualquier instalación:
 Crear fichero hello.js con el siguiente codigo:
 ```
 $ echo 'console.log("Hello, World!");' > hello.js
