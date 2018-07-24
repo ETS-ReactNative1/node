@@ -38,6 +38,8 @@ Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost
 
 ## 03-Testing
 
+[Da potencia y flexibilidad a tus tests con Jest](https://www.genbeta.com/desarrollo/da-potencia-flexibilidad-tus-tests-jest)
+
 [What is a JavaScript test?](https://www.javascriptjanuary.com/blog/but-really-what-is-a-javascript-test)
 
 [Unit testing in JavaScript Part 3 - Test runners](https://www.youtube.com/watch?reload=9&v=pdx2HjFRaJY&feature=em-subs_digest)
