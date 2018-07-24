@@ -1,15 +1,8 @@
 # Instalacion
 El entorno de node permite ejecutar/interpretar codigo js (javascript) en un equipo, para lo cual se necesita
-- Instalar editor de código 
 - Instalar runtime node.js
-
-## Instalar editor de código
-El editor se utiliza para escribir el codigo js. Con un simple editor de texto es suficiente. Cada sistema operativo tiene distintos editores, y ultimamente hay una serie de editores multiplataforma recomendados para programadores por incluir herramientas muy potentes y productivas como las siguientes:
-- [VisualStudioCode](https://code.visualstudio.com/) es un editor opensource liberado por Microsoft muy utilizado
-- [Atom](https://atom.io/) es un editor opensource algo menos utilizado
-
-Los ficheros creados con estos editores contienen el codigo fuente del programa, y son ficheros con extension js 
-El ciclo de trabajo es editar el fichero, salvarlo en un fichero y finalmente ejecutarlo con el runtime.
+- Instalar editor de código 
+- Instalar git
 
 ## Instalar runtime node.js
 
@@ -69,4 +62,47 @@ finalmente ejecutar el fichero con el siguiente comando:
 ```
 $ node hello.js
 Hello, World!
+```
+
+## Instalar editor de código
+El editor se utiliza para escribir el codigo js. Con un simple editor de texto es suficiente. Cada sistema operativo tiene distintos editores, y ultimamente hay una serie de editores multiplataforma recomendados para programadores por incluir herramientas muy potentes y productivas como las siguientes:
+- [VisualStudioCode](https://code.visualstudio.com/) es un editor opensource liberado por Microsoft muy utilizado
+- [Atom](https://atom.io/) es un editor opensource algo menos utilizado
+
+Los ficheros creados con estos editores contienen el codigo fuente del programa, y son ficheros con extension js 
+El ciclo de trabajo es editar el fichero, salvarlo en un fichero y finalmente ejecutarlo con el runtime.
+
+## Instalar git
+[Git](git-scm.com) es un sistema de control de versiones distribuido open source para desarrollo colaborativo de proyectos software desde pequeños a muy grandes teniendo en cuenta la velocidad y eficiencia del sistema.
+
+La instalación de Git es algo diferente para cada sistema operativo, tal como se resumen en las siguientes opciones.
+
+### Instrucciones para Mac
+- Abrir terminal
+- Instalar HomeBrew para simplificar instalacion de software en Mac OSX
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew doctor
+```
+- Instalar git
+```
+brew install git
+```
+
+### Instrucciones para Windows
+Descargar Git from [Git for Windows](https://gitforwindows.org/) y ejecuta el instalador.
+
+### Instrucciones para Linux
+La instalacion depende de la distribución de Linux de base utilizada.
+
+Debian
+```
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install git
+```
+RedHat
+```
+sudo yum upgrade
+sudo yum install git
 ```
