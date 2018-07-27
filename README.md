@@ -121,6 +121,7 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 # TODO
 
 ### Vue
+[Hello vue. A quicjk tutorial on Getting Started with Vue](https://www.telerik.com/blogs/hello-vue-a-quick-tutorial-on-getting-started-with-vue)
 
 [Tutorial - Build an instagram clone with vue js and cssgram](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
 
