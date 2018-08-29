@@ -120,6 +120,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[I created the exact same TODO app in React and Vue. Here are the differences](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
+
 [Creating an Instagram Bot With Node.js](https://hackernoon.com/how-to-create-an-instagram-bot-with-node-js-a289185a7d6f)
 
 [Building a simple static site generator using Node.js](https://smalldata.tech/blog/2018/08/16/building-a-simple-static-site-generator-using-node-js)
