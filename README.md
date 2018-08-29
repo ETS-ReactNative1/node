@@ -120,6 +120,10 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe) creating a production-ready Express API running on AWS Lambda with a persistent MongoDB data store.
+
+[A pure javascript QR code reading library](https://github.com/cozmo/jsQR)
+
 [I created the exact same TODO app in React and Vue. Here are the differences](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
 
 [Creating an Instagram Bot With Node.js](https://hackernoon.com/how-to-create-an-instagram-bot-with-node-js-a289185a7d6f)
