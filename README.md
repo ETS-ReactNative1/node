@@ -120,6 +120,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[Creating an Instagram Bot With Node.js](https://hackernoon.com/how-to-create-an-instagram-bot-with-node-js-a289185a7d6f)
+
 [Building a simple static site generator using Node.js](https://smalldata.tech/blog/2018/08/16/building-a-simple-static-site-generator-using-node-js)
 
 [Hello vue. A quicjk tutorial on Getting Started with Vue](https://www.telerik.com/blogs/hello-vue-a-quick-tutorial-on-getting-started-with-vue)
@@ -307,3 +309,5 @@ For this ionic tutorial I built an app with a question and answer format, where 
 4. How to code your own YouTube app: a full YouTube API tutorial with code examples (1 hour watch): https://www.youtube.com/watch?v=9sWEecNUW-o
 
 [Building a Snipping Tool with Electron, React and Node.js](https://quantizd.com/building-a-snipping-tool-with-electron-react-and-node-js/)
+
+[Creating an Instagram Bot With Node.js](https://hackernoon.com/how-to-create-an-instagram-bot-with-node-js-a289185a7d6f)
