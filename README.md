@@ -120,6 +120,10 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[Building a Simple CRUD Application with Express and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
+
+[Writing a CRUD app with Node.js and MongoDB](https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb)
+
 [A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe) creating a production-ready Express API running on AWS Lambda with a persistent MongoDB data store.
 
 [A pure javascript QR code reading library](https://github.com/cozmo/jsQR)
@@ -274,6 +278,8 @@ satisfaction and lowering cost.
 [Hacking de Videojuegos con JavaScript](https://www.youtube.com/watch?v=XJJS1HrV2_Y) Recomendada por Bonilla
 
 [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw)
+
+[Creating an autocomplete component with downshift]()
 
 # Ejemplos
 
