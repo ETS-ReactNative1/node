@@ -244,6 +244,8 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 [Everyone can now run JavaScript on Cloudflare with Workers](https://blog.cloudflare.com/cloudflare-workers-unleashed/)
 
+[Deploy your first App with Heroku and Node.js](https://www.youtube.com/watch?v=MxfxiR8TVNU)
+
 # Referencias
 
 [A JavaScript String Methods Cheatsheet](https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d)
