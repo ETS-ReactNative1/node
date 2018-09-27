@@ -221,6 +221,8 @@ If you can follow these steps and you get a report of 7 passing tests, sit back 
 
 # Herramientas
 
+[Chrome DevTools - CSS and JS code coverage](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage)
+
 [JavaScript Animation Engine](https://github.com/juliangarnier/anime)
 
 [Using Prettier to Format Your JavaScript Code](https://www.wisdomgeek.com/web-development/using-prettier-format-javascript-code/)
