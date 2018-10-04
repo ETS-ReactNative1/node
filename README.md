@@ -329,3 +329,14 @@ For this ionic tutorial I built an app with a question and answer format, where 
 [Building a Snipping Tool with Electron, React and Node.js](https://quantizd.com/building-a-snipping-tool-with-electron-react-and-node-js/)
 
 [Creating an Instagram Bot With Node.js](https://hackernoon.com/how-to-create-an-instagram-bot-with-node-js-a289185a7d6f)
+
+# Google Chrome Extensions
+
+[Getting Started Tutorial](https://developer.chrome.com/extensions/getstarted)
+This tutorial will build an extension that allows the user to change the background color of any page on developer.chrome.com. It will use many core components to give an introductory demonstration of their relationships.
+
+[How to Create and Publish a Chrome Extension in 20 minutes](https://medium.freecodecamp.org/how-to-create-and-publish-a-chrome-extension-in-20-minutes-6dc8395d7153)
+Follow these steps and your idea will turn into reality and you’ll be able to publish a real extension in the Chrome Web Store in no time.
+
+[Create a Chrome Extension in 90 Seconds](https://egghead.io/lessons/chrome-create-a-chrome-extension-in-90-seconds)
+Creating a Chrome extension requires a manifest.json file which defines how your extension will behave. With a minimal setup, you can already manipulate pages and change elements. This lesson walks you through creating a manifest.json file which will essentially "block" twitter and reddit and tell you to get back to work.
