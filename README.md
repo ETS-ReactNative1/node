@@ -252,6 +252,8 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 # Referencias
 
+[The Definitive Node.js Handbook](https://www.freecodecamp.org/news/quincylarson/node-js-handbook--rSaL0lP34)
+
 [A JavaScript String Methods Cheatsheet](https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d)
 
 3. Did you know that Google has its own JavaScript style guide? It lays out best practices for writing clean, understandable code. Here are some of the highlights (7 minute read): https://fcc.im/2GtBwN3
@@ -290,8 +292,6 @@ satisfaction and lowering cost.
 [How to build your own website](https://www.freecodecamp.org/n/j49MHj8uK)
 
 [MongoDB Node.js, Express.js, and Mongoose (75 minute watch)](https://www.freecodecamp.org/n/ec8iI9oO9)
-
-
 
 # Ejemplos
 
