@@ -123,6 +123,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 [Hello, Create React App 2.0!](https://www.telerik.com/blogs/hello-create-react-app-2) Create React App provides an environment for learning React with zero configuration, developed by the React team at Facebook Open Source to help you jump-start your application. 
 
 [Minicurso Gratuito React.js y Firebase](https://cursos.carlosazaustre.es/courses/enrolled/169975)
+[Curso en Youtube](https://www.youtube.com/watch?v=M76SUpBf_3o&list=PLUdlARNXMVkn5_dwhSfC3WzqRrGhsfqu5)
+
 
 [Building a Simple CRUD Application with Express and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
 
@@ -286,6 +288,8 @@ satisfaction and lowering cost.
 [Implementing Feature Flags with Node and React](https://blog.sicara.com/feature-flags-nodejs-continuous-delivery-c245264b52b4)
 
 # Videos/Charlas
+
+[Desarrolla integraciones con bots a través de la plataforma y la API de Hangouts Chat ](https://developers-latam.googleblog.com/2018/03/desarrolla-integraciones-con-bots.html)
 
 [Hacking de Videojuegos con JavaScript](https://www.youtube.com/watch?v=XJJS1HrV2_Y) Recomendada por Bonilla
 
