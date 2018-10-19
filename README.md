@@ -258,6 +258,8 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 [Deploy your first App with Heroku and Node.js](https://www.youtube.com/watch?v=MxfxiR8TVNU)
 
+[Learn the smart, efficient way to test any JavaScript application](https://testingjavascript.com/)
+
 # Referencias
 
 [The Definitive Node.js Handbook](https://www.freecodecamp.org/news/quincylarson/node-js-handbook--rSaL0lP34)
