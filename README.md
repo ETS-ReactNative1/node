@@ -120,13 +120,16 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[Build a Basic CRUD App with Vue.js and Node](https://www.sitepoint.com/build-a-basic-crud-app-with-vue-js-and-node/) This tutorial will take you step by step through scaffolding a Vue.js project, offloading secure authentication to Okta’s OpenID Connect API (OIDC), locking down protected routes, and performing CRUD operations through a backend REST API server.
+
+[Pruebas asíncronas en node.js](http://pinchito.es/2013/pruebas-asincronas.html)
+
 [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417) Who hasn’t dreamt they could create web and mobile applications from scratch in a matter of days, while using cutting-edge technologies? With good programming patterns and a well-chosen framework, this dream is not as unrealistic as it seems… and Vulcan.js is the answer!
 
 [Hello, Create React App 2.0!](https://www.telerik.com/blogs/hello-create-react-app-2) Create React App provides an environment for learning React with zero configuration, developed by the React team at Facebook Open Source to help you jump-start your application. 
 
 [Minicurso Gratuito React.js y Firebase](https://cursos.carlosazaustre.es/courses/enrolled/169975)
 [Curso en Youtube](https://www.youtube.com/watch?v=M76SUpBf_3o&list=PLUdlARNXMVkn5_dwhSfC3WzqRrGhsfqu5)
-
 
 [Building a Simple CRUD Application with Express and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
 
