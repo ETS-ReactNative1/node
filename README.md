@@ -253,6 +253,11 @@ This, too, can be true if the tests are written incorrectly. A common mistake I 
 
 On TestingJavaScript.com, I show you how you can get confidence that the registration and login flows are working, and then skip those for the rest of your tests so you can significantly speed up the tests and reduce the points of failure. When you write tests this way and use tools like cypress-testing-library, practices like page objects are totally unnecessary, and your tests are easier to maintain, more reliable, and run faster. You might even find yourself replacing Chrome with Cypress as your development workflow tool (which I show you how to do in the course as well!) 😱
 
+More references:
+[Common Myths of Test Automation](https://www.testingexcellence.com/common-myths-test-automation/)
+
+[6 Popular Myths in Test Automation You Must Know](https://www.testbytes.net/blog/6-popular-myths-in-test-automation-you-must-know/)
+
 # Herramientas
 
 [Chrome DevTools - CSS and JS code coverage](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage)
