@@ -5,6 +5,8 @@ Este tutorial node.js recoge toda la información relevante para el desarrollo e
 
 [Tutorial](./02-tutorial.md)
 
+[Getting Started with Node.js](https://edgecoders.com/getting-started-with-node-js-91449a0d03d3)
+
 # Tutorial
 
 ## 01-HelloWorld
@@ -384,6 +386,10 @@ For this ionic tutorial I built an app with a question and answer format, where 
 [Building a Snipping Tool with Electron, React and Node.js](https://quantizd.com/building-a-snipping-tool-with-electron-react-and-node-js/)
 
 [Creating an Instagram Bot With Node.js](https://hackernoon.com/how-to-create-an-instagram-bot-with-node-js-a289185a7d6f)
+
+[Aprende a crear tu propio videojuego en el navegador usando JavaScript gracias a este curso gratuito intensivo](https://m.genbeta.com/web/aprende-a-crear-tu-propio-videojuego-navegador-usando-javascript-gracias-a-este-curso-gratuito-intensivo/amp)
+
+[Functional JS](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
 
 # Google Chrome Extensions
 
