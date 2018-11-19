@@ -7,6 +7,8 @@ Este tutorial node.js recoge toda la información relevante para el desarrollo e
 
 [Getting Started with Node.js](https://edgecoders.com/getting-started-with-node-js-91449a0d03d3)
 
+[Este manual quiere que aprendas el 80% de todo JavaScript en 20% del tiempo](https://www.genbeta.com/web/este-manual-quiere-que-aprendas-80-todo-javascript-20-tiempo) [Javascript Handbook](https://drive.google.com/file/d/1KkOb8_7a3YT_GrFvJCmxu9LrLVksy2kP/view)
+
 # Tutorial
 
 ## 01-HelloWorld
@@ -349,6 +351,8 @@ UI Testing Myths
 # Ejemplos
 
 [Build a Basic CRUD App with Vue.js and Node](https://www.sitepoint.com/build-a-basic-crud-app-with-vue-js-and-node/)
+
+[Creating and Reading QR Codes with Node.js](http://thecodebarbarian.com/creating-qr-codes-with-node-js.html)
 
 [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)
 
