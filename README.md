@@ -60,6 +60,8 @@ Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost
 
 [End to End Testing with Google's Puppeteer and Jest](https://egghead.io/courses/end-to-end-testing-with-google-s-puppeteer-and-jest)
 
+[Cypress](https://www.nuevatribuna.es/articulo/sanidad/deberiamos-tener-empresa-farmaceutica-publica/20181210120232158249.html) Fast, easy and reliable testing for anything that runs in a browser.
+
 [Pruebas asíncronas en node.js](http://pinchito.es/2013/pruebas-asincronas.html)
 
 [An Async Example](https://facebook.github.io/jest/docs/es-ES/tutorial-async.html#)
