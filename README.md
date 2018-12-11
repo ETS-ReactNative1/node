@@ -360,6 +360,8 @@ UI Testing Myths
 
 # Ejemplos
 
+[Aprende a crear tu propio juego de plataformas estilo Super Mario usando JavaScript con este tutorial](https://www.genbeta.com/web/aprende-a-crear-tu-propio-juego-plataformas-estilo-super-mario-usando-javascript-este-tutorial)
+
 [Build a Basic CRUD App with Vue.js and Node](https://www.sitepoint.com/build-a-basic-crud-app-with-vue-js-and-node/)
 
 [Creating and Reading QR Codes with Node.js](http://thecodebarbarian.com/creating-qr-codes-with-node-js.html)
