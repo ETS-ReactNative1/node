@@ -303,6 +303,8 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 [Learn the smart, efficient way to test any JavaScript application](https://testingjavascript.com/)
 
+[jsPDF](https://github.com/MrRio/jsPDF)Client-side JavaScript PDF generation for everyone
+
 # Referencias
 
 [The Definitive Node.js Handbook](https://www.freecodecamp.org/news/quincylarson/node-js-handbook--rSaL0lP34)
