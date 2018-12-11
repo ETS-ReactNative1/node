@@ -128,6 +128,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines#testing)
+
 [How to use NodeJS without frameworks and external libraries](https://adityasridhar.com/posts/how-to-use-nodejs-without-frameworks-and-external-libraries)
 
 [Write tests. Not too many. Mostly integration](https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c)
@@ -304,6 +306,8 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 [Learn the smart, efficient way to test any JavaScript application](https://testingjavascript.com/)
 
 [jsPDF](https://github.com/MrRio/jsPDF)Client-side JavaScript PDF generation for everyone
+
+[A beginner's guide to continuous integration](https://about.gitlab.com/2018/01/22/a-beginners-guide-to-continuous-integration)
 
 # Referencias
 
