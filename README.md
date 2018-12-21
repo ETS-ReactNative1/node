@@ -72,6 +72,8 @@ Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost
 
 [An Async Example](https://jestjs.io/docs/es-ES/tutorial-async.html)
 
+[Awesome automated testing setup](https://til.philipsotirov.com/start-server-and-test)
+
 ## 03-Counter
 Presentar un contador de accesos facilmente sin necesitar ninguna base de datos creando el fichero '03-Counter.js' con el codigo:
 
@@ -359,6 +361,8 @@ satisfaction and lowering cost.
 UI Testing Myths
 
 # Ejemplos
+
+[introduction to linked lists](https://dev.to/aspittel/thank-u-next-an-introduction-to-linked-lists-4pph)
 
 [Aprende a crear tu propio juego de plataformas estilo Super Mario usando JavaScript con este tutorial](https://www.genbeta.com/web/aprende-a-crear-tu-propio-juego-plataformas-estilo-super-mario-usando-javascript-este-tutorial)
 
