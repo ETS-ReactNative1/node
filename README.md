@@ -130,6 +130,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[How to build a Node.js server that scales](https://medium.freecodecamp.org/writing-scalable-architecture-for-node-js-2b58e0523d7f)
+
 [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines#testing)
 
 [How to use NodeJS without frameworks and external libraries](https://adityasridhar.com/posts/how-to-use-nodejs-without-frameworks-and-external-libraries)
@@ -272,6 +274,8 @@ More references:
 
 [6 Popular Myths in Test Automation You Must Know](https://www.testbytes.net/blog/6-popular-myths-in-test-automation-you-must-know/)
 
+[Node.js & JavaScript Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347)
+
 # Herramientas
 
 [Chrome DevTools - CSS and JS code coverage](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage)
@@ -361,6 +365,8 @@ satisfaction and lowering cost.
 UI Testing Myths
 
 # Ejemplos
+
+[Trilium Notes](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes. A Knowledge Base App Built on Express.js (A hierarhical note taking app. Built as an Express app but also includes Electron packaging.)
 
 [introduction to linked lists](https://dev.to/aspittel/thank-u-next-an-introduction-to-linked-lists-4pph)
 
