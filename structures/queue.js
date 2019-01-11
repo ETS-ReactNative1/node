@@ -1,4 +1,9 @@
 //queue
+//https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038
+//Data Structures and Algorithms in JavaScript
+//https://egghead.io/courses/data-structures-and-algorithms-in-javascript
+//Queue data structure in javascript
+//https://egghead.io/lessons/javascript-queue-data-structure-in-javascript
 
 function createQueue() {
     const queue = []
@@ -35,3 +40,5 @@ q.dequeue()
 q.dequeue()
 console.log(q.peek())
 console.log(q.isEmpty())
+
+//node queue.js
