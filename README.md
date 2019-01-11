@@ -130,6 +130,10 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[Nuxt.js](https://nuxtjs.org/) Nuxt.js presets all the configuration needed to make your development of a Vue.js application enjoyable.
+
+[Web con blog y portfolio usando Vue.js + Nuxt + Markdown](https://marinaaisa.com/es/blog/blog-usando-vue-nuxt-markdown/) Cómo he creado mi nueva web con portfolio y blog en dos idiomas. Qué tecnología he utilizado y por qué
+
 [How to build a Node.js server that scales](https://medium.freecodecamp.org/writing-scalable-architecture-for-node-js-2b58e0523d7f)
 
 [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines#testing)
@@ -277,6 +281,8 @@ More references:
 [Node.js & JavaScript Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347)
 
 # Herramientas
+
+[Nuxt.js](https://nuxtjs.org/) Nuxt.js presets all the configuration needed to make your development of a Vue.js application enjoyable.
 
 [Chrome DevTools - CSS and JS code coverage](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage)
 
