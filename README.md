@@ -130,6 +130,10 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[Tip: Get the unique values of an array in JavaScript](https://twitter.com/addyosmani/status/1080727964411674624?s=11)
+
+[The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66) Objects are the foundation of JavaScript and permeate its every aspect. Almost everything in JavaScript is an object. In fact, only six things are not objects. They are — null,undefined, strings, numbers, boolean, and symbols. These are called primitive values or primitive types.
+
 [Nuxt.js](https://nuxtjs.org/) Nuxt.js presets all the configuration needed to make your development of a Vue.js application enjoyable.
 
 [Web con blog y portfolio usando Vue.js + Nuxt + Markdown](https://marinaaisa.com/es/blog/blog-usando-vue-nuxt-markdown/) Cómo he creado mi nueva web con portfolio y blog en dos idiomas. Qué tecnología he utilizado y por qué
