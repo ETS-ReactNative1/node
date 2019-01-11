@@ -9,6 +9,8 @@ Este tutorial node.js recoge toda la información relevante para el desarrollo e
 
 [Este manual quiere que aprendas el 80% de todo JavaScript en 20% del tiempo](https://www.genbeta.com/web/este-manual-quiere-que-aprendas-80-todo-javascript-20-tiempo) [Javascript Handbook](https://drive.google.com/file/d/1KkOb8_7a3YT_GrFvJCmxu9LrLVksy2kP/view)
 
+[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a Web Developer in 2019 is a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
+
 # Tutorial
 
 ## 01-HelloWorld
