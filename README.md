@@ -364,6 +364,8 @@ satisfaction and lowering cost.
 
 # Videos/Charlas
 
+[Node.js En Vivo](https://julianduque.co/tag/node-en-vivo/) Episodios de Node.js en Vivo en Español
+
 [Desarrolla integraciones con bots a través de la plataforma y la API de Hangouts Chat ](https://developers-latam.googleblog.com/2018/03/desarrolla-integraciones-con-bots.html)
 
 [Hacking de Videojuegos con JavaScript](https://www.youtube.com/watch?v=XJJS1HrV2_Y) Recomendada por Bonilla
@@ -376,9 +378,15 @@ satisfaction and lowering cost.
 
 [MongoDB Node.js, Express.js, and Mongoose (75 minute watch)](https://www.freecodecamp.org/n/ec8iI9oO9)
 
+[MongoDB Tutorial - CRUD app from scratch using Node.js](https://www.freecodecamp.org/news/mongodb-crud-app/)
+
 [Intro to Game Development with JavaScript](https://www.freecodecamp.org/news/beaucarnes/intro-to-game-development-with-javascript--pqogm3nsF)
 
-UI Testing Myths
+[UI Testing Myths](https://blog.kentcdodds.com/ui-testing-myths-dfb5f629f20a)
+* Myth 1: "Tests always break when I make any changes to the code"
+* Myth 2: “I can’t test a ‘connected’ redux component”
+* Myth 3: “End-to-End tests are slow and brittle”
+* 
 
 # Ejemplos
 
