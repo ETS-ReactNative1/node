@@ -364,6 +364,11 @@ satisfaction and lowering cost.
 
 # Videos/Charlas
 
+[Can you tell me if your Node app is healthy?](https://www.youtube.com/watch?v=7HoxAeQIck4&feature=youtu.be) #ppt
+* npm blocked - https://www.npmjs.com/package/blocked Check if a node event loop is blocked
+* [Influx Data](https://www.influxdata.com) integrates real-time analytics, event handling, and time-based data with Open Source plugins
+* [Graphana](https://grafana.com/) - A quick way to generate helpful, pre-canned grafana dashboards for Cloudwatch and Graphite
+
 [Node.js En Vivo](https://julianduque.co/tag/node-en-vivo/) Episodios de Node.js en Vivo en Español
 
 [Desarrolla integraciones con bots a través de la plataforma y la API de Hangouts Chat ](https://developers-latam.googleblog.com/2018/03/desarrolla-integraciones-con-bots.html)
