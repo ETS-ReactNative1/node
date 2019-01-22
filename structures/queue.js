@@ -50,7 +50,7 @@ console.log(q.peek())
 console.log(q.isEmpty())
 
 
-function test(){
+function testQueue(){
   console.log("\n*** Queue Test ***");
   
   console.log("\n* creatQueue()");  
@@ -88,6 +88,6 @@ function test(){
   return;
 }
 
-test();
+testQueue();
 //RUN
 //node queue.js
