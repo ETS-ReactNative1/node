@@ -132,6 +132,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[Seven reasons to learn Vue.js in 2019](https://dev.to/rossta/seven-reasons-learn-vuejs-in-2019-2n9o)
+
 [10 Best Tips for Learning Vue from Vue Masters](https://medium.com/vue-mastery/10-best-tips-for-learning-vue-from-vue-masters-a21c794b1e6e) If you’re a developer who is just starting out with Vue.js, jumping in can be both exciting and overwhelming. While everybody’s learning process is very different, I asked six Vue Masters the following question “What advice would you give developers who are just starting Vue.js that you wish you would have known?”
 
 [Tip: Get the unique values of an array in JavaScript](https://twitter.com/addyosmani/status/1080727964411674624?s=11)
@@ -290,6 +292,8 @@ More references:
 
 # Herramientas
 
+[Redux Starter Kit](https://github.com/reduxjs/redux-starter-kit) A simple set of tools to make using Redux easier https://redux-starter-kit.js.org
+
 [What Is Redux: A Designer’s Guide](https://www.smashingmagazine.com/2018/07/redux-designers-guide/)
 
 [Nuxt.js](https://nuxtjs.org/) Nuxt.js presets all the configuration needed to make your development of a Vue.js application enjoyable.
@@ -396,6 +400,8 @@ satisfaction and lowering cost.
 # Ejemplos
 
 [Trilium Notes](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes. A Knowledge Base App Built on Express.js (A hierarhical note taking app. Built as an Express app but also includes Electron packaging.)
+
+[Web application used for BilboStack feedback and questions](https://github.com/Sirikon/bilbostack-app)
 
 [introduction to linked lists](https://dev.to/aspittel/thank-u-next-an-introduction-to-linked-lists-4pph)
 
