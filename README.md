@@ -132,6 +132,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md) Clean Code Javascript es un repositorio en GitHub que contiene un montón de consejos, ejemplos y convenciones para crear un código limpio y mantenible. Desde naming de variables y funciones hasta SOLID y manejo de errores. ¡Recomendadísimo! 
+
 [Seven reasons to learn Vue.js in 2019](https://dev.to/rossta/seven-reasons-learn-vuejs-in-2019-2n9o)
 
 [10 Best Tips for Learning Vue from Vue Masters](https://medium.com/vue-mastery/10-best-tips-for-learning-vue-from-vue-masters-a21c794b1e6e) If you’re a developer who is just starting out with Vue.js, jumping in can be both exciting and overwhelming. While everybody’s learning process is very different, I asked six Vue Masters the following question “What advice would you give developers who are just starting Vue.js that you wish you would have known?”
@@ -300,6 +302,8 @@ More references:
 
 [Chrome DevTools - CSS and JS code coverage](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage)
 
+[Using DevTools from Puppeteer](https://twitter.com/katiehempenius/status/1085742033262837760?s=11)
+
 [Eliminate an entire category of bugs with a few simple tools](https://blog.kentcdodds.com/eliminate-an-entire-category-of-bugs-with-a-few-simple-tools-f0dd2aaf4bc9)
 
 [JavaScript Animation Engine](https://github.com/juliangarnier/anime)
@@ -398,6 +402,8 @@ satisfaction and lowering cost.
 * 
 
 # Ejemplos
+
+[Handling Time Zone in JavaScript](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
 
 [Trilium Notes](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes. A Knowledge Base App Built on Express.js (A hierarhical note taking app. Built as an Express app but also includes Electron packaging.)
 
