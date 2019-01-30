@@ -1,11 +1,11 @@
 //Tip: Consola 
 //https://www.genbeta.com/desarrollo/exprimiendo-javascript-y-su-consola
 //La consola JavaScript soporta varios niveles para organizar (log, info, warn, error, debug) 
-console.log('mensaje consola');
-console.info('mensaje info');
-console.warn('mensaje warning');
-console.error('mensaje error');
-console.debug('mensaje debug');
+//console.log('mensaje consola');
+//console.info('mensaje info');
+//console.warn('mensaje warning');
+//console.error('mensaje error');
+//console.debug('mensaje debug');
 //Una vez impresos podemos ir a la consola y filtrar por categoría
 
 //Consola y formateadores
@@ -18,8 +18,8 @@ var concepto = {
   "concepto": "ordenador",
   "precio": 100
 };
-console.log("objetos  = %s euros", concepto);
-console.log("concepto  = ", concepto);
+//console.log("objetos  = %s euros", concepto);
+//console.log("concepto  = ", concepto);
 
 //Tip: Get the unique values of an array in JavaScript.
 //https://twitter.com/addyosmani/status/1080727964411674624?s=11
@@ -63,25 +63,36 @@ const obj2 = {   // Creating properties
     dateOfBirth: '18th October',
     friends: [ 'Bob', 'Christine' ]
 };
-console.log(obj2);
+//console.log(obj2);
 
 const obj3 = {
   nestedObj: {
     name: 'Alex'
   }
 }
-console.log(obj3);
+//console.log(obj3);
 
 //Creating objects using Object constructor
-const obj4 = new Object();
-console.log(obj4);
+//const obj4 = new Object();
+//console.log(obj4);
 
 //Computed Properties 
 const propertyName = 'firstName';
 const obj5 = {
   [propertyName.toUpperCase()]: 'Alex',
 }
-console.log('obj5  = ', obj5);
+//console.log('obj5  = ', obj5);
 // { FIRSTNAME: 'Alex' } 
+
+//Function as key values
+const obj6 = {
+  firstName: 'ALEX',
+  lastName: 'MARTIN',
+  printFullName() {
+    return `${this.firstName} ${this.lastName}`
+  }
+};
+console.log(obj6.printFullName());
+//=> 'ALEX MARTIN'
 
 
