@@ -7,6 +7,10 @@
 //https://egghead.io/courses/data-structures-and-algorithms-in-javascript
 //Queue data structure in javascript
 //https://egghead.io/lessons/javascript-queue-data-structure-in-javascript
+//
+// RUN
+// node queue.js
+
 
 function createQueue() {
     const queue = []
@@ -32,7 +36,8 @@ function createQueue() {
 }
 
 const q = createQueue()
-console.log(q.isEmpty())
+console.log(q.isEmpty());
+console.log(q.length);
 
 q.enqueue('Make a lesson')
 q.enqueue('Help others learn')
@@ -44,4 +49,45 @@ q.dequeue()
 console.log(q.peek())
 console.log(q.isEmpty())
 
+
+function testQueue(){
+  console.log("\n*** Queue Test ***");
+  
+  console.log("\n* creatQueue()");  
+  console.log("when a Queue is created then is empty");
+  //console.log("..is empty");
+  // console.log("ERROR: is not empty " + "(FALSE)");
+  //console.log("..length is zero");
+  //console.log("ERROR: length is not zero " + "(4)");
+  //console.log("..peek() is undefined");
+
+  console.log("\n* enqueue()");
+  console.log("when enqueue a value then value is inserted in head");
+  //console.log("..is not empty");
+  //console.log("..length is not zero");
+  //console.log("..peek() return the value enqueue");
+
+  console.log("\n* dequeue()");
+  console.log("when dequeue a value the value is delete from tail");
+  //console.log("..is not empty");
+  //console.log("..length is not zero");
+  //console.log("..peek() return the value enqueue");
+
+  console.log("\n* peek()");
+  console.log("when peek() an empty queue then return undefined");
+  console.log("when peek() an non empty queue then return value at tail and queue is not modified");
+  
+  console.log("\n* length return the number of elements in queue");
+  console.log("when peek() an empty queue then return 0");
+  //console.log("when .. then..");
+  
+  console.log("\n* isEmpty() return if queue is empty");
+  console.log("when queue is empty then return TRUE");
+  console.log("when queue is not empty then return FALSE");
+  
+  return;
+}
+
+testQueue();
+//RUN
 //node queue.js

@@ -132,6 +132,12 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md) Clean Code Javascript es un repositorio en GitHub que contiene un montón de consejos, ejemplos y convenciones para crear un código limpio y mantenible. Desde naming de variables y funciones hasta SOLID y manejo de errores. ¡Recomendadísimo! 
+
+[Seven reasons to learn Vue.js in 2019](https://dev.to/rossta/seven-reasons-learn-vuejs-in-2019-2n9o)
+
+[10 Best Tips for Learning Vue from Vue Masters](https://medium.com/vue-mastery/10-best-tips-for-learning-vue-from-vue-masters-a21c794b1e6e) If you’re a developer who is just starting out with Vue.js, jumping in can be both exciting and overwhelming. While everybody’s learning process is very different, I asked six Vue Masters the following question “What advice would you give developers who are just starting Vue.js that you wish you would have known?”
+
 [Tip: Get the unique values of an array in JavaScript](https://twitter.com/addyosmani/status/1080727964411674624?s=11)
 
 [The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66) Objects are the foundation of JavaScript and permeate its every aspect. Almost everything in JavaScript is an object. In fact, only six things are not objects. They are — null,undefined, strings, numbers, boolean, and symbols. These are called primitive values or primitive types.
@@ -288,11 +294,15 @@ More references:
 
 # Herramientas
 
+[Redux Starter Kit](https://github.com/reduxjs/redux-starter-kit) A simple set of tools to make using Redux easier https://redux-starter-kit.js.org
+
 [What Is Redux: A Designer’s Guide](https://www.smashingmagazine.com/2018/07/redux-designers-guide/)
 
 [Nuxt.js](https://nuxtjs.org/) Nuxt.js presets all the configuration needed to make your development of a Vue.js application enjoyable.
 
 [Chrome DevTools - CSS and JS code coverage](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage)
+
+[Using DevTools from Puppeteer](https://twitter.com/katiehempenius/status/1085742033262837760?s=11)
 
 [Eliminate an entire category of bugs with a few simple tools](https://blog.kentcdodds.com/eliminate-an-entire-category-of-bugs-with-a-few-simple-tools-f0dd2aaf4bc9)
 
@@ -362,6 +372,13 @@ satisfaction and lowering cost.
 
 # Videos/Charlas
 
+[Can you tell me if your Node app is healthy?](https://www.youtube.com/watch?v=7HoxAeQIck4&feature=youtu.be) #ppt
+* npm blocked - https://www.npmjs.com/package/blocked Check if a node event loop is blocked
+* [Influx Data](https://www.influxdata.com) integrates real-time analytics, event handling, and time-based data with Open Source plugins
+* [Graphana](https://grafana.com/) - A quick way to generate helpful, pre-canned grafana dashboards for Cloudwatch and Graphite
+
+[Node.js En Vivo](https://julianduque.co/tag/node-en-vivo/) Episodios de Node.js en Vivo en Español
+
 [Desarrolla integraciones con bots a través de la plataforma y la API de Hangouts Chat ](https://developers-latam.googleblog.com/2018/03/desarrolla-integraciones-con-bots.html)
 
 [Hacking de Videojuegos con JavaScript](https://www.youtube.com/watch?v=XJJS1HrV2_Y) Recomendada por Bonilla
@@ -374,13 +391,23 @@ satisfaction and lowering cost.
 
 [MongoDB Node.js, Express.js, and Mongoose (75 minute watch)](https://www.freecodecamp.org/n/ec8iI9oO9)
 
+[MongoDB Tutorial - CRUD app from scratch using Node.js](https://www.freecodecamp.org/news/mongodb-crud-app/)
+
 [Intro to Game Development with JavaScript](https://www.freecodecamp.org/news/beaucarnes/intro-to-game-development-with-javascript--pqogm3nsF)
 
-UI Testing Myths
+[UI Testing Myths](https://blog.kentcdodds.com/ui-testing-myths-dfb5f629f20a)
+* Myth 1: "Tests always break when I make any changes to the code"
+* Myth 2: “I can’t test a ‘connected’ redux component”
+* Myth 3: “End-to-End tests are slow and brittle”
+* 
 
 # Ejemplos
 
+[Handling Time Zone in JavaScript](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
+
 [Trilium Notes](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes. A Knowledge Base App Built on Express.js (A hierarhical note taking app. Built as an Express app but also includes Electron packaging.)
+
+[Web application used for BilboStack feedback and questions](https://github.com/Sirikon/bilbostack-app)
 
 [introduction to linked lists](https://dev.to/aspittel/thank-u-next-an-introduction-to-linked-lists-4pph)
 
