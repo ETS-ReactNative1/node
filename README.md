@@ -132,6 +132,10 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
+
+[Website with blog and portfolio using Vue.js + Nuxt + Markdown](https://marinaaisa.com/blog/blog-using-vue-nuxt-markdown/) How I created my new website with portfolio and blog in two languages. What technology I used and why.
+
 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md) Clean Code Javascript es un repositorio en GitHub que contiene un montón de consejos, ejemplos y convenciones para crear un código limpio y mantenible. Desde naming de variables y funciones hasta SOLID y manejo de errores. ¡Recomendadísimo! 
 
 [Seven reasons to learn Vue.js in 2019](https://dev.to/rossta/seven-reasons-learn-vuejs-in-2019-2n9o)
