@@ -18,7 +18,8 @@ var concepto = {
   "concepto": "ordenador",
   "precio": 100
 };
-console.log("objetos %O", concepto);
+console.log("objetos  = %s euros", concepto);
+console.log("concepto  = ", concepto);
 
 //Tip: Get the unique values of an array in JavaScript.
 //https://twitter.com/addyosmani/status/1080727964411674624?s=11
