@@ -298,6 +298,8 @@ More references:
 
 # Herramientas
 
+[FlexSearch.js](https://github.com/nextapps-de/flexsearch) A Full Text Search Library
+
 [Redux Starter Kit](https://github.com/reduxjs/redux-starter-kit) A simple set of tools to make using Redux easier https://redux-starter-kit.js.org
 
 [What Is Redux: A Designer’s Guide](https://www.smashingmagazine.com/2018/07/redux-designers-guide/)
