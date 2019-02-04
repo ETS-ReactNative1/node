@@ -1,5 +1,6 @@
 //Tip: Escribir objeto a JSON 
 //https://stackabuse.com/reading-and-writing-json-files-with-node-js/
+//https://nodejs.org/api/fs.html
 'use strict';
 const fs = require('fs');
 
