@@ -19,6 +19,7 @@ fs.writeFileSync('student.json', data);
 data = fs.readFileSync('student.json');  
 student = JSON.parse(data);  
 console.log(student);  
+fs.unlinkSync('student.json');
 
 //Tip: Consola 
 //https://www.genbeta.com/desarrollo/exprimiendo-javascript-y-su-consola
