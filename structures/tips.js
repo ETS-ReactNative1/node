@@ -1,8 +1,5 @@
 //Tip: Escribir objeto a JSON 
-//https://es.quora.com/C%C3%B3mo-hago-un-archivo-JSON-con-JavaScript
-//writeFile(), recibe 4 parametros, el path o ruta del archivo con nombre y extension,
-//los datos a guardar en dicho archivo, la codificacion de caracteres a usar y como todo en javascript un callback.
-
+//https://stackabuse.com/reading-and-writing-json-files-with-node-js/
 'use strict';
 const fs = require('fs');
 
