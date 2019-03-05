@@ -1,3 +1,18 @@
+//Javascrip Strings methods
+//https://twitter.com/davidwalshblog/status/1099853694210920450?s=11
+"YES!".bold();
+"Yes!".blink();
+"Yes!".italics()
+
+
+//VisualCode Tip:
+// Select text
+// Cmd-F/Ctrl-F searches for the selected text. No need to copy-paste! 
+
+//Tip: Run copy(obj) in the @ChromeDevTools console to copy an object to your clipboard.
+//     Paste in an editor
+//https://twitter.com/addyosmani/status/1092686766375616517?s=11
+
 //Tip: Escribir objeto a JSON 
 //https://stackabuse.com/reading-and-writing-json-files-with-node-js/
 //https://nodejs.org/api/fs.html
