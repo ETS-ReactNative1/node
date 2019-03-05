@@ -1,3 +1,13 @@
+//Tip: Exclude folders like node_modules or any other from the explorer tree in @code
+//Go to File-Preferences-Settings (Mac: Code-Preferences-Settings)
+//Search files.exlude in settings
+//Select add pattern and type: **/node_modules
+//node_modules dissapear from explorer tree
+
+//Javascript Arithmetic Cheat Sheet
+//https://dev.to/wangonya/javascript-arithmetic-cheat-sheet-265h
+
+
 //Javascrip Strings methods
 //https://twitter.com/davidwalshblog/status/1099853694210920450?s=11
 "YES!".bold();
