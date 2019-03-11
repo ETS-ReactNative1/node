@@ -44,6 +44,8 @@ Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost
 
 ## 03-Testing
 
+[Testing React — an overview](https://medium.com/dailyjs/testing-react-an-overview-56204839cbad) Testing your frontend application has never been easier before. Within this article, I’ll explain different levels of testing your application as well as the most suited solutions for testing the specified levels. Also, there is a repository located at https://gitlab.com/takethefake/react-testing-todo where all best practices are used.
+
 [Demystifying JavaScript Testing](https://css-tricks.com/demystifying-javascript-testing/)
 
 [Da potencia y flexibilidad a tus tests con Jest](https://www.genbeta.com/desarrollo/da-potencia-flexibilidad-tus-tests-jest)
