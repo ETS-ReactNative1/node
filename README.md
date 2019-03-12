@@ -306,6 +306,8 @@ More references:
 
 # Herramientas
 
+[Nodebook](https://github.com/netgusto/nodebook/blob/master/README.md) is an in-browser REPL supporting many programming languages. Code's on the left, Console's on the right. Click "Run" or press Ctrl+Enter or Cmd+Enter to run your code. Code is automatically persisted on the file system.
+
 [Node.js task runners: Are they right for you?](https://blog.logrocket.com/node-js-task-runners-are-they-right-for-you-bb29ea30b7fa)
 
 [FlexSearch.js](https://github.com/nextapps-de/flexsearch) A Full Text Search Library
