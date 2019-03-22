@@ -274,6 +274,8 @@ If you can follow these steps and you get a report of 7 passing tests, sit back 
 
 [The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
 
+[A complete guide to threads in Node.js](https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f)
+
 ##UI Testing Myths
 
 Myth 1: "Tests always break when I make any changes to the code"
