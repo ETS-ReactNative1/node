@@ -371,6 +371,8 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 # Referencias
 
+[Node.js vs Python for a Beginner’s Web App](https://stackify.com/node-js-vs-python-for-a-beginners-web-app/)
+
 [The Definitive Node.js Handbook](https://www.freecodecamp.org/news/quincylarson/node-js-handbook--rSaL0lP34)
 
 [A JavaScript String Methods Cheatsheet](https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d)
