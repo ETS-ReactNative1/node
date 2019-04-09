@@ -99,4 +99,16 @@ const uniqueArray3 = arr => arr.filter(x => {
 //console.log(uniqueArray3(['Dan', 'Sarah', 'Sophie', 'Sarah']));
 //[ 'Dan', 'Sarah', 'Sophie']
 
+//Tip:
+//https://twitter.com/carnage4life/status/1111804166555332609?s=11
+//if (condition){
+//  return A;
+//} else {
+//  return Ba;
+//}
+//return condition ? A : B;
+
+//Tip: Tip: Run copy(obj) in the @ChromeDevTools console to copy an object to your clipboard.
+//https://twitter.com/addyosmani/status/1092686766375616517/photo/1
+
 
