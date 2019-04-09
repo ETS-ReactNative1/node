@@ -312,6 +312,8 @@ More references:
 
 # Herramientas
 
+[Continuous Integration and deployment(CI/CD Pipeline) with Jenkins and Node.js](https://codeforgeek.com/2019/03/continuous-integration-deployment-jenkins-node-js/)
+
 [Nodebook](https://github.com/netgusto/nodebook/blob/master/README.md) is an in-browser REPL supporting many programming languages. Code's on the left, Console's on the right. Click "Run" or press Ctrl+Enter or Cmd+Enter to run your code. Code is automatically persisted on the file system.
 
 [Node.js task runners: Are they right for you?](https://blog.logrocket.com/node-js-task-runners-are-they-right-for-you-bb29ea30b7fa)
@@ -424,8 +426,7 @@ satisfaction and lowering cost.
 [UI Testing Myths](https://blog.kentcdodds.com/ui-testing-myths-dfb5f629f20a)
 * Myth 1: "Tests always break when I make any changes to the code"
 * Myth 2: “I can’t test a ‘connected’ redux component”
-* Myth 3: “End-to-End tests are slow and brittle”
-* 
+* Myth 3: “End-to-End tests are slow and brittle” 
 
 # Ejemplos
 
