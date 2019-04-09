@@ -1,3 +1,10 @@
+//Diferencias clave entre var, let y const en JavaScript
+//https://cybmeta.com/var-let-y-const-en-javascript
+//var declara una variable de scope global o local para la función sin importar el ámbito de bloque.
+//    Permite hoisting: usarlar sin estar declarada antes.
+//let declara una variable de scope global, local para la función o de bloque. Es reasignable y no permite hoisting.
+//const declara una variable de scope global, local para la función o de bloque. No es reasignable, pero es mutable. No permite hoisting.
+
 //Tip: Exclude folders like node_modules or any other from the explorer tree in @code
 //Go to File-Preferences-Settings (Mac: Code-Preferences-Settings)
 //Search files.exlude in settings

@@ -162,9 +162,9 @@ const obj14 = {
 }
 
 // Spreading the properties of obj14
-const obj15 = {
-  ...obj14      
-}
+//const obj15 = {
+//  ...obj14      
+//}
 //console.log(obj15);
 //console.log(obj14 === obj15);    // => false
 
@@ -227,3 +227,15 @@ const newObj22 = objectMap(obj22, (key, value) => {
 });
 */
 // => { FIRSTNAME: 'alex', LASTNAME: 'martin' }
+
+//7 Tricks with Resting and Spreading JavaScript Objects
+//https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83
+
+//1. Adding Properties
+
+const user = { id: 100, name: 'Howard Moon'};
+//const userWithPass = { ...user, password: 'Password!' };
+//... definido a partir de node 8.2.1
+
+console.log(user);         //=> { id: 100, name: 'Howard Moon' }
+//userWithPass //=> { id: 100, name: 'Howard Moon', password: 'Password!' }
