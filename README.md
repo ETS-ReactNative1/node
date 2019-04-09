@@ -138,6 +138,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[Cómo instalar aplicaciones web progresivas (PWA) en Chrome desde Windows o macOS](https://www.genbeta.com/paso-a-paso/como-instalar-aplicaciones-web-progresivas-pwa-chrome)
+
 [Dynamic image resizing with Node.js and the Serverless Framework](https://serverless.com/blog/dynamic-image-resizing-nodejs/) In this article, we'll take an in-depth look at the benefits of dynamic image resizing and walk you through using the Serverless Framework to resize your images dynamically with AWS Lambda. So, let's get to it!
 
 [The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
@@ -312,6 +314,8 @@ More references:
 
 # Herramientas
 
+[Continuous Integration and deployment(CI/CD Pipeline) with Jenkins and Node.js](https://codeforgeek.com/2019/03/continuous-integration-deployment-jenkins-node-js/)
+
 [Nodebook](https://github.com/netgusto/nodebook/blob/master/README.md) is an in-browser REPL supporting many programming languages. Code's on the left, Console's on the right. Click "Run" or press Ctrl+Enter or Cmd+Enter to run your code. Code is automatically persisted on the file system.
 
 [Node.js task runners: Are they right for you?](https://blog.logrocket.com/node-js-task-runners-are-they-right-for-you-bb29ea30b7fa)
@@ -363,7 +367,11 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 [A beginner's guide to continuous integration](https://about.gitlab.com/2018/01/22/a-beginners-guide-to-continuous-integration)
 
+[Complete Node.js Project Setup from Docker to Testing](https://medium.com/@nur_islam/complete-node-js-project-setup-from-docker-to-testing-docker-restfull-apis-with-node-js-9f384e06734a)
+
 # Referencias
+
+[Node.js vs Python for a Beginner’s Web App](https://stackify.com/node-js-vs-python-for-a-beginners-web-app/)
 
 [The Definitive Node.js Handbook](https://www.freecodecamp.org/news/quincylarson/node-js-handbook--rSaL0lP34)
 
@@ -424,8 +432,7 @@ satisfaction and lowering cost.
 [UI Testing Myths](https://blog.kentcdodds.com/ui-testing-myths-dfb5f629f20a)
 * Myth 1: "Tests always break when I make any changes to the code"
 * Myth 2: “I can’t test a ‘connected’ redux component”
-* Myth 3: “End-to-End tests are slow and brittle”
-* 
+* Myth 3: “End-to-End tests are slow and brittle” 
 
 # Ejemplos
 
@@ -448,6 +455,8 @@ satisfaction and lowering cost.
 [Aprende a crear tu propio juego de plataformas estilo Super Mario usando JavaScript con este tutorial](https://www.genbeta.com/web/aprende-a-crear-tu-propio-juego-plataformas-estilo-super-mario-usando-javascript-este-tutorial)
 
 [Build a Basic CRUD App with Vue.js and Node](https://www.sitepoint.com/build-a-basic-crud-app-with-vue-js-and-node/)
+
+[Creating a Reusable Pagination Component in Vue](https://css-tricks.com/creating-a-reusable-pagination-component-in-vue/)
 
 [Creating and Reading QR Codes with Node.js](http://thecodebarbarian.com/creating-qr-codes-with-node-js.html)
 
@@ -506,3 +515,8 @@ Follow these steps and your idea will turn into reality and you’ll be able to 
 
 [Create a Chrome Extension in 90 Seconds](https://egghead.io/lessons/chrome-create-a-chrome-extension-in-90-seconds)
 Creating a Chrome extension requires a manifest.json file which defines how your extension will behave. With a minimal setup, you can already manipulate pages and change elements. This lesson walks you through creating a manifest.json file which will essentially "block" twitter and reddit and tell you to get back to work.
+
+# WEB static
+[Cómo he migrado este blog de WordPress a Gatsby](https://asiermarques.com/2019/de-wordpress-a-gatsby/)
+
+
