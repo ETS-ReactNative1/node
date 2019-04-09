@@ -138,6 +138,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[Cómo instalar aplicaciones web progresivas (PWA) en Chrome desde Windows o macOS](https://www.genbeta.com/paso-a-paso/como-instalar-aplicaciones-web-progresivas-pwa-chrome)
+
 [Dynamic image resizing with Node.js and the Serverless Framework](https://serverless.com/blog/dynamic-image-resizing-nodejs/) In this article, we'll take an in-depth look at the benefits of dynamic image resizing and walk you through using the Serverless Framework to resize your images dynamically with AWS Lambda. So, let's get to it!
 
 [The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
@@ -507,3 +509,8 @@ Follow these steps and your idea will turn into reality and you’ll be able to 
 
 [Create a Chrome Extension in 90 Seconds](https://egghead.io/lessons/chrome-create-a-chrome-extension-in-90-seconds)
 Creating a Chrome extension requires a manifest.json file which defines how your extension will behave. With a minimal setup, you can already manipulate pages and change elements. This lesson walks you through creating a manifest.json file which will essentially "block" twitter and reddit and tell you to get back to work.
+
+# WEB static
+[Cómo he migrado este blog de WordPress a Gatsby](https://asiermarques.com/2019/de-wordpress-a-gatsby/)
+
+
