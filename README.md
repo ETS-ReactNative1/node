@@ -429,6 +429,14 @@ satisfaction and lowering cost.
 
 # Ejemplos
 
+[Web development illustrated](https://illustrated.dev/)
+
+[#javascript ES6 cheatsheet — String Templates](https://medium.com/@serbanmihai/javascript-es6-cheatsheet-string-templates-d2de281668f0)
+
+[The Ultimate Guide to JavaScript Algorithms](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
+
+[WhatsApp Clone with Meteor CLI and Ionic](https://angular-meteor.com/tutorials/whatsapp/meteor/bootstrapping)
+
 [Handling Time Zone in JavaScript](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
 
 [Trilium Notes](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes. A Knowledge Base App Built on Express.js (A hierarhical note taking app. Built as an Express app but also includes Electron packaging.)
