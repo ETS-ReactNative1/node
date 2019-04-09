@@ -11,6 +11,8 @@ Este tutorial node.js recoge toda la información relevante para el desarrollo e
 
 [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a Web Developer in 2019 is a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
 
+[NPM - Todo lo que necesitas saber](https://codingpotions.com/npm-tutorial/)
+
 # Tutorial
 
 ## 01-HelloWorld
@@ -43,6 +45,8 @@ Salva el fichero y ejecuta el comando:
 Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost:8080](http://localhost:8080) aparece el mensaje 'Hello Server'
 
 ## 03-Testing
+
+[Testing React — an overview](https://medium.com/dailyjs/testing-react-an-overview-56204839cbad) Testing your frontend application has never been easier before. Within this article, I’ll explain different levels of testing your application as well as the most suited solutions for testing the specified levels. Also, there is a repository located at https://gitlab.com/takethefake/react-testing-todo where all best practices are used.
 
 [Demystifying JavaScript Testing](https://css-tricks.com/demystifying-javascript-testing/)
 
@@ -133,6 +137,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 * Node with Express, Okta JWT Verifier, Sequelize, and Epilogue
 
 # TODO
+
+[Dynamic image resizing with Node.js and the Serverless Framework](https://serverless.com/blog/dynamic-image-resizing-nodejs/) In this article, we'll take an in-depth look at the benefits of dynamic image resizing and walk you through using the Serverless Framework to resize your images dynamically with AWS Lambda. So, let's get to it!
 
 [The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
 
@@ -270,6 +276,8 @@ If you can follow these steps and you get a report of 7 passing tests, sit back 
 
 [The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
 
+[A complete guide to threads in Node.js](https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f)
+
 ##UI Testing Myths
 
 Myth 1: "Tests always break when I make any changes to the code"
@@ -303,6 +311,8 @@ More references:
 [Buefy](https://buefy.org/) Lightweight UI components for Vue.js based on Bulma
 
 # Herramientas
+
+[Nodebook](https://github.com/netgusto/nodebook/blob/master/README.md) is an in-browser REPL supporting many programming languages. Code's on the left, Console's on the right. Click "Run" or press Ctrl+Enter or Cmd+Enter to run your code. Code is automatically persisted on the file system.
 
 [Node.js task runners: Are they right for you?](https://blog.logrocket.com/node-js-task-runners-are-they-right-for-you-bb29ea30b7fa)
 
@@ -377,6 +387,8 @@ satisfaction and lowering cost.
 [Digital Transformation with the Node.js DevOps Stack](https://github.com/jjfalcon/node/blob/master/node-js-devops-stack-transformation.pdf), PayPal, Netflix, and Walmart show the way to do rapid digital transformation of legacy systems
 
 [How Fintonic uses Node.js, MongoDB & Kubernetes to scale](https://community.risingstack.com/how-fintonic-uses-nodejs-mongodb-kubernetes/), es un artículo sobre la arquitectura y escalabilidad de Fintonic.
+
+[kentcdodds](https://github.com/kentcdodds)
 
 # Recomendaciones
 
