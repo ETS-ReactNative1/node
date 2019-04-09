@@ -367,6 +367,8 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 [A beginner's guide to continuous integration](https://about.gitlab.com/2018/01/22/a-beginners-guide-to-continuous-integration)
 
+[Complete Node.js Project Setup from Docker to Testing](https://medium.com/@nur_islam/complete-node-js-project-setup-from-docker-to-testing-docker-restfull-apis-with-node-js-9f384e06734a)
+
 # Referencias
 
 [The Definitive Node.js Handbook](https://www.freecodecamp.org/news/quincylarson/node-js-handbook--rSaL0lP34)
@@ -451,6 +453,8 @@ satisfaction and lowering cost.
 [Aprende a crear tu propio juego de plataformas estilo Super Mario usando JavaScript con este tutorial](https://www.genbeta.com/web/aprende-a-crear-tu-propio-juego-plataformas-estilo-super-mario-usando-javascript-este-tutorial)
 
 [Build a Basic CRUD App with Vue.js and Node](https://www.sitepoint.com/build-a-basic-crud-app-with-vue-js-and-node/)
+
+[Creating a Reusable Pagination Component in Vue](https://css-tricks.com/creating-a-reusable-pagination-component-in-vue/)
 
 [Creating and Reading QR Codes with Node.js](http://thecodebarbarian.com/creating-qr-codes-with-node-js.html)
 
