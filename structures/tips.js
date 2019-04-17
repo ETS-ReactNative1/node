@@ -108,7 +108,9 @@ const uniqueArray3 = arr => arr.filter(x => {
 //}
 //return condition ? A : B;
 
-//Tip: Tip: Run copy(obj) in the @ChromeDevTools console to copy an object to your clipboard.
+//Tip: Run copy(obj) in the @ChromeDevTools console to copy an object to your clipboard.
 //https://twitter.com/addyosmani/status/1092686766375616517/photo/1
 
+//Tip: 7 Useful JavaScript Tricks
+//https://davidwalsh.name/javascript-tricks
 
