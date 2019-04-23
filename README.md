@@ -138,6 +138,10 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[Front End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+[Bulletproof node.js project architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf) The correct organization of your node.js project structure will avoid duplication of code, will improve stability, and potentially, will help you scale your services if is done correctly.
+
 [Google Cloud Functions, Node.js and Express](https://itnext.io/google-cloud-functions-node-js-and-express-aea4a2a9ba3a)
 
 [Cómo instalar aplicaciones web progresivas (PWA) en Chrome desde Windows o macOS](https://www.genbeta.com/paso-a-paso/como-instalar-aplicaciones-web-progresivas-pwa-chrome)
