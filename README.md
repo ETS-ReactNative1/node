@@ -138,6 +138,12 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[Front End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+[Bulletproof node.js project architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf) The correct organization of your node.js project structure will avoid duplication of code, will improve stability, and potentially, will help you scale your services if is done correctly.
+
+[Google Cloud Functions, Node.js and Express](https://itnext.io/google-cloud-functions-node-js-and-express-aea4a2a9ba3a)
+
 [Cómo instalar aplicaciones web progresivas (PWA) en Chrome desde Windows o macOS](https://www.genbeta.com/paso-a-paso/como-instalar-aplicaciones-web-progresivas-pwa-chrome)
 
 [Dynamic image resizing with Node.js and the Serverless Framework](https://serverless.com/blog/dynamic-image-resizing-nodejs/) In this article, we'll take an in-depth look at the benefits of dynamic image resizing and walk you through using the Serverless Framework to resize your images dynamically with AWS Lambda. So, let's get to it!
@@ -313,6 +319,8 @@ More references:
 [Buefy](https://buefy.org/) Lightweight UI components for Vue.js based on Bulma
 
 # Herramientas
+
+[javascript reporting server](https://jsreport.net/) innovative and unlimited reporting based on javascript templating engines
 
 [Continuous Integration and deployment(CI/CD Pipeline) with Jenkins and Node.js](https://codeforgeek.com/2019/03/continuous-integration-deployment-jenkins-node-js/)
 
