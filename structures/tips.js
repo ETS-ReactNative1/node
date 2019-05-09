@@ -1,3 +1,8 @@
+//Tip: debug variable en consola
+//p=3;
+//console.log(p);   //3
+//console.log({p}); //{p: 3}
+
 //Diferencias clave entre var, let y const en JavaScript
 //https://cybmeta.com/var-let-y-const-en-javascript
 //var declara una variable de scope global o local para la función sin importar el ámbito de bloque.
