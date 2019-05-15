@@ -138,6 +138,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[The Modern JavaScript Tutorial](https://javascript.info/) From the basics to advanced topics with simple, but detailed explanations. Main course contains 2 parts which cover JavaScript as a programming language and working with a browser. There are also additional series of thematic articles.
+
 [Front End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 [Bulletproof node.js project architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf) The correct organization of your node.js project structure will avoid duplication of code, will improve stability, and potentially, will help you scale your services if is done correctly.
@@ -405,6 +407,32 @@ satisfaction and lowering cost.
 [How Fintonic uses Node.js, MongoDB & Kubernetes to scale](https://community.risingstack.com/how-fintonic-uses-nodejs-mongodb-kubernetes/), es un artículo sobre la arquitectura y escalabilidad de Fintonic.
 
 [kentcdodds](https://github.com/kentcdodds)
+
+https://learnvanillajs.com/roadmap/
+
+This is an excellent path to follow from the very beginning. It's clear and concise and also gives some great suggestions for resources and even project ideas! I think the project ideas in particular are interesting because it's often a ticking point with "what do I make"
+
+While I'm personally a huge fan of just making more and better todo lists, mixing it up is fun too.
+
+https://learnjavascript.online/
+
+This is a comprehensive from-the-beginning interactive experience. It's a book, but it integrates flash cards and excellent interactive code exercises.
+
+It's a remarkable clean presentation and a very effective learning experience.
+
+For us at egghead, it's inspiring and we want to start adding this type of functionality to our courses!
+
+https://learn.co/courses/introduction-to-javascript
+
+This is Flat Iron's introduction to JavaScript, and it is excellent. They give you a free trial, and I'm not sure what the full program costs, but Flat Iron is one of the best bootcamps out there and this course shows it.
+
+https://watchandcode.com/p/practical-javascript
+
+This is a concise free course from Gordon Zhu that provides an excellent entry point for folks new to JS.
+
+https://javascript.info/
+
+This is a free book, and it is a comprehensive intro to JavaScript. It is freshly rewritten and provides an excellent starting point to learning JavaScript.
 
 # Recomendaciones
 
