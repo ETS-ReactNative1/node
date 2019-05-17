@@ -324,6 +324,8 @@ More references:
 
 # Herramientas
 
+[Glitch. Online Platform to develop node](https://blog.bitsrc.io/introduction-to-glitch-for-node-js-apps-in-the-cloud-cd263de5683f)
+
 [javascript reporting server](https://jsreport.net/) innovative and unlimited reporting based on javascript templating engines
 
 [Continuous Integration and deployment(CI/CD Pipeline) with Jenkins and Node.js](https://codeforgeek.com/2019/03/continuous-integration-deployment-jenkins-node-js/)
