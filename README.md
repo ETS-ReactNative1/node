@@ -138,6 +138,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[3 Approaches for Using the Google Sheets API in Node.js: A Tutorial](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/)
+
 [How I built my first React Native app for my first freelance client](https://medium.freecodecamp.org/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1)
 
 [The Modern JavaScript Tutorial](https://javascript.info/) From the basics to advanced topics with simple, but detailed explanations. Main course contains 2 parts which cover JavaScript as a programming language and working with a browser. There are also additional series of thematic articles.
