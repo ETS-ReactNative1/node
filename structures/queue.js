@@ -4,6 +4,8 @@
 //JavaScript Algorithms and Data Structures
 //https://github.com/trekhleb/javascript-algorithms/blob/master/README.md
 //Data Structures and Algorithms in JavaScript
+// https://github.com/eggheadio-projects/intro-to-data-structures-and-algorithms/tree/master/quickSort
+
 //https://egghead.io/courses/data-structures-and-algorithms-in-javascript
 //Queue data structure in javascript
 //https://egghead.io/lessons/javascript-queue-data-structure-in-javascript
