@@ -138,6 +138,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 
 # TODO
 
+[Learn how to build your own social media app from scratch using React, Redux, Firebase, and Express](https://www.freecodecamp.org/news/react-firebase-social-media-app-course/) - a full-length intermediate  course - all free and with no ads (12 hour watch): 
+
 [3 Approaches for Using the Google Sheets API in Node.js: A Tutorial](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/)
 
 [How I built my first React Native app for my first freelance client](https://medium.freecodecamp.org/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1)
