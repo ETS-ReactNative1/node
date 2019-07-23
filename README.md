@@ -450,6 +450,8 @@ This is a free book, and it is a comprehensive intro to JavaScript. It is freshl
 
 # Videos/Charlas
 
+[Learn Node.js and start executing JavaScript outside of the browser](https://www.freecodecamp.org/news/getting-started-with-node-js/)
+
 [Can you tell me if your Node app is healthy?](https://www.youtube.com/watch?v=7HoxAeQIck4&feature=youtu.be) #ppt
 * npm blocked - https://www.npmjs.com/package/blocked Check if a node event loop is blocked
 * [Influx Data](https://www.influxdata.com) integrates real-time analytics, event handling, and time-based data with Open Source plugins
