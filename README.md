@@ -329,9 +329,11 @@ More references:
 
 [Node.js & JavaScript Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347)
 
-# Componentes
+# Componentes, librerias
 
 [Buefy](https://buefy.org/) Lightweight UI components for Vue.js based on Bulma
+
+[Robot](https://thisrobot.life/) Fast 1kB functional library for creating Finite State Machines
 
 # Herramientas
 
