@@ -396,6 +396,11 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 [Complete Node.js Project Setup from Docker to Testing](https://medium.com/@nur_islam/complete-node-js-project-setup-from-docker-to-testing-docker-restfull-apis-with-node-js-9f384e06734a)
 
+## Libros
+
+You don´t know JS: Up Going (Kyle Simpson). 
+[Javascript Grammar](http://www.javascriptteacher.com/tmp-057-jsg-dk-II/javascriptgrammar-dark.pdf) was created to speed up the learning process of JavaScript – the language for programming websites, applications and robots!
+
 # Referencias
 
 [Node.js vs Python for a Beginner’s Web App](https://stackify.com/node-js-vs-python-for-a-beginners-web-app/)
