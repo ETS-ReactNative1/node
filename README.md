@@ -4,6 +4,8 @@
 
 [How to write clean code](https://www.freecodecamp.org/news/javascript-naming-convention/) An overview of JavaScript best practices and coding conventions. 8 minute read, plus video
 
+[Credir Card Form in Vue](https://codepen.io/JavaScriptJunkie/pen/YzzNGeR)
+
 ## Tutorial
 
 Este tutorial node.js recoge toda la información relevante para el desarrollo en este entorno de desarrollo.
