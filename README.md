@@ -54,6 +54,7 @@ Salva el fichero y ejecuta el comando:
 Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost:8080](http://localhost:8080) aparece el mensaje 'Hello Server'
 
 ## 03-Testing
+[Making your UI tests resilient to change](https://kentcdodds.com/blog/making-your-ui-tests-resilient-to-change)
 
 [Testing React — an overview](https://medium.com/dailyjs/testing-react-an-overview-56204839cbad) Testing your frontend application has never been easier before. Within this article, I’ll explain different levels of testing your application as well as the most suited solutions for testing the specified levels. Also, there is a repository located at https://gitlab.com/takethefake/react-testing-todo where all best practices are used.
 
