@@ -8,6 +8,8 @@
 
 [An overview of Progressive Web App development](https://www.freecodecamp.org/news/practical-tips-on-progressive-web-app-development/)
 
+[A complete guide to end-to-end API testing with Docker](https://www.freecodecamp.org/news/end-to-end-api-testing-with-docker/) You'll build a Node/Express API and test it with Chai and Mocha. (19 minute read) 
+
 ## Tutorial
 
 Este tutorial node.js recoge toda la información relevante para el desarrollo en este entorno de desarrollo.
