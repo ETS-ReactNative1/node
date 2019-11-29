@@ -10,6 +10,8 @@
 
 [A complete guide to end-to-end API testing with Docker](https://www.freecodecamp.org/news/end-to-end-api-testing-with-docker/) You'll build a Node/Express API and test it with Chai and Mocha. (19 minute read) 
 
+[Why you should use SVG images, and how to animate your SVGs and make them lightning fast (5 minute read)](https://www.freecodecamp.org/news/a-fresh-perspective-at-why-when-and-how-to-use-svg/)
+
 ## Tutorial
 
 Este tutorial node.js recoge toda la información relevante para el desarrollo en este entorno de desarrollo.
