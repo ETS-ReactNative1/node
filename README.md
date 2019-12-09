@@ -1,4 +1,21 @@
 # node
+
+## TODO
+
+[Publish NPM package with GitHub Actions](https://juffalow.com/javascript/publish-npm-package-with-github-actions)
+
+[How to write clean code](https://www.freecodecamp.org/news/javascript-naming-convention/) An overview of JavaScript best practices and coding conventions. 8 minute read, plus video
+
+[Credir Card Form in Vue](https://codepen.io/JavaScriptJunkie/pen/YzzNGeR)
+
+[An overview of Progressive Web App development](https://www.freecodecamp.org/news/practical-tips-on-progressive-web-app-development/)
+
+[A complete guide to end-to-end API testing with Docker](https://www.freecodecamp.org/news/end-to-end-api-testing-with-docker/) You'll build a Node/Express API and test it with Chai and Mocha. (19 minute read) 
+
+[Why you should use SVG images, and how to animate your SVGs and make them lightning fast (5 minute read)](https://www.freecodecamp.org/news/a-fresh-perspective-at-why-when-and-how-to-use-svg/)
+
+## Tutorial
+
 Este tutorial node.js recoge toda la información relevante para el desarrollo en este entorno de desarrollo.
 
 [Instalación](./01-instalacion.md)
@@ -45,6 +62,7 @@ Salva el fichero y ejecuta el comando:
 Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost:8080](http://localhost:8080) aparece el mensaje 'Hello Server'
 
 ## 03-Testing
+[Making your UI tests resilient to change](https://kentcdodds.com/blog/making-your-ui-tests-resilient-to-change)
 
 [Testing React — an overview](https://medium.com/dailyjs/testing-react-an-overview-56204839cbad) Testing your frontend application has never been easier before. Within this article, I’ll explain different levels of testing your application as well as the most suited solutions for testing the specified levels. Also, there is a repository located at https://gitlab.com/takethefake/react-testing-todo where all best practices are used.
 
@@ -137,6 +155,8 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 * Node with Express, Okta JWT Verifier, Sequelize, and Epilogue
 
 # TODO
+
+[Learn how to build your own social media app from scratch using React, Redux, Firebase, and Express](https://www.freecodecamp.org/news/react-firebase-social-media-app-course/) - a full-length intermediate  course - all free and with no ads (12 hour watch): 
 
 [3 Approaches for Using the Google Sheets API in Node.js: A Tutorial](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/)
 
@@ -320,9 +340,11 @@ More references:
 
 [Node.js & JavaScript Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347)
 
-# Componentes
+# Componentes, librerias
 
 [Buefy](https://buefy.org/) Lightweight UI components for Vue.js based on Bulma
+
+[Robot](https://thisrobot.life/) Fast 1kB functional library for creating Finite State Machines
 
 # Herramientas
 
@@ -384,6 +406,11 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 [A beginner's guide to continuous integration](https://about.gitlab.com/2018/01/22/a-beginners-guide-to-continuous-integration)
 
 [Complete Node.js Project Setup from Docker to Testing](https://medium.com/@nur_islam/complete-node-js-project-setup-from-docker-to-testing-docker-restfull-apis-with-node-js-9f384e06734a)
+
+## Libros
+
+You don´t know JS: Up Going (Kyle Simpson). 
+[Javascript Grammar](http://www.javascriptteacher.com/tmp-057-jsg-dk-II/javascriptgrammar-dark.pdf) was created to speed up the learning process of JavaScript – the language for programming websites, applications and robots!
 
 # Referencias
 
@@ -447,6 +474,8 @@ This is a free book, and it is a comprehensive intro to JavaScript. It is freshl
 [Implementing Feature Flags with Node and React](https://blog.sicara.com/feature-flags-nodejs-continuous-delivery-c245264b52b4)
 
 # Videos/Charlas
+
+[Learn Node.js and start executing JavaScript outside of the browser](https://www.freecodecamp.org/news/getting-started-with-node-js/)
 
 [Can you tell me if your Node app is healthy?](https://www.youtube.com/watch?v=7HoxAeQIck4&feature=youtu.be) #ppt
 * npm blocked - https://www.npmjs.com/package/blocked Check if a node event loop is blocked
