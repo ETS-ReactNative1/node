@@ -18,6 +18,9 @@
 
 [Why you should use SVG images, and how to animate your SVGs and make them lightning fast (5 minute read)](https://www.freecodecamp.org/news/a-fresh-perspective-at-why-when-and-how-to-use-svg/)
 
+[Tailwind CSS](https://tailwindcss.com/) A utility-first CSS framework for rapidly building custom designs.
+Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+
 ## Tutorial
 
 Este tutorial node.js recoge toda la información relevante para el desarrollo en este entorno de desarrollo.
