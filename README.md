@@ -2,6 +2,10 @@
 
 ## TODO
 
+How to deploy a website in just 3 minutes straight from your Google Drive. (6 minute read): https://www.freecodecamp.org/news/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive/
+
+How to make your first JavaScript chart using the JSCharting library - a detailed tutorial with code examples. (18 minute read): https://www.freecodecamp.org/news/how-to-make-your-first-javascript-chart/
+
 [The Ultimate Guide to End to End Tests with Selenium and Docker](https://www.freecodecamp.org/news/end-to-end-tests-with-selenium-and-docker-the-ultimate-guide/)
 
 [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
@@ -20,6 +24,9 @@
 
 [Tailwind CSS](https://tailwindcss.com/) A utility-first CSS framework for rapidly building custom designs.
 Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+https://egghead.io/playlists/introduction-to-tailwind-and-the-utility-first-workflow-0b697b10
+
+[Learn UI design fundamental](https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-one-hour-course/) This course will teach you User Interface Design fundamentals like whitespace, visual hierarchy, and typography (1 hour interactive course) 
 
 ## Tutorial
 
