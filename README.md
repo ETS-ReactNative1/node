@@ -2,6 +2,8 @@
 
 ## TODO
 
+[CodePen](https://codepen.io/) The best place to build, test, and discover front-end code. CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
+
 How to deploy a website in just 3 minutes straight from your Google Drive. (6 minute read): https://www.freecodecamp.org/news/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive/
 
 How to make your first JavaScript chart using the JSCharting library - a detailed tutorial with code examples. (18 minute read): https://www.freecodecamp.org/news/how-to-make-your-first-javascript-chart/
