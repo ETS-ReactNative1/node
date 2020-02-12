@@ -2,6 +2,8 @@
 
 ## TODO
 
+[Learning Modern JavaScript with Tetris](https://twitter.com/javascriptdaily/status/1203022042745974789?s=11)
+
 [CodePen](https://codepen.io/) The best place to build, test, and discover front-end code. CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 https://twitter.com/js_tut/status/1210037813204402177?s=11
 
