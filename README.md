@@ -2,6 +2,12 @@
 
 ## TODO
 
+An experienced developer shares his favorite Chrome DevTools tips and tricks (5 minute read): https://www.freecodecamp.org/news/awesome-chrome-dev-tools-tips-and-tricks/
+
+[How to Build a Piano Keyboard Using Vanilla JavaScript](https://www.freecodecamp.org/news/javascript-piano-keyboard/)
+
+[How to build a Progressive Web App from scratch with HTML, CSS, and JavaScript](https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/) You'll build a simple coffee menu app that uses service workers and continues working even if you disconnect from the internet. (10 minute read)
+
 [Learning Modern JavaScript with Tetris](https://twitter.com/javascriptdaily/status/1203022042745974789?s=11)
 
 [Build a Weight Tracker App with Node.js and PostgreSQL](https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql)
