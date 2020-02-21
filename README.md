@@ -2,6 +2,12 @@
 
 ## TODO
 
+Object Oriented Programming in JavaScript – Explained with Examples
+https://www.freecodecamp.org/news/how-javascript-implements-oop/
+
+How to build and deploy a portfolio website - Video Course
+https://www.freecodecamp.org/news/how-to-build-a-portfolio-website-and-deploy-to-digital-ocean/
+
 An experienced developer shares his favorite Chrome DevTools tips and tricks (5 minute read): https://www.freecodecamp.org/news/awesome-chrome-dev-tools-tips-and-tricks/
 
 [How to Build a Piano Keyboard Using Vanilla JavaScript](https://www.freecodecamp.org/news/javascript-piano-keyboard/)
