@@ -2,6 +2,9 @@
 
 ## TODO
 
+Vue unit testing
+https://www.vuemastery.com/courses/unit-testing/what-to-test/
+
 Object Oriented Programming in JavaScript – Explained with Examples
 https://www.freecodecamp.org/news/how-javascript-implements-oop/
 
