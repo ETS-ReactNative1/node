@@ -378,6 +378,8 @@ More references:
 
 # Componentes, librerias
 
+[Logality](https://github.com/thanpolas/logality) a versatile and powerful logger for Node.js
+
 [Buefy](https://buefy.org/) Lightweight UI components for Vue.js based on Bulma
 
 [Robot](https://thisrobot.life/) Fast 1kB functional library for creating Finite State Machines
