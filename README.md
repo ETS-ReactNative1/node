@@ -449,6 +449,8 @@ With @ChromeDevTools you can create "conditional breakpoint". If you add console
 
 ## Libros
 
+[Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/)
+
 You don´t know JS: Up Going (Kyle Simpson). 
 [Javascript Grammar](http://www.javascriptteacher.com/tmp-057-jsg-dk-II/javascriptgrammar-dark.pdf) was created to speed up the learning process of JavaScript – the language for programming websites, applications and robots!
 
