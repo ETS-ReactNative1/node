@@ -2,6 +2,8 @@
 
 ## TODO
 
+[5 best practices for clean coding in JavaScript](https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am)
+
 [Aprende javascript](https://aprendejavascript.org/)
 
 Vue unit testing
