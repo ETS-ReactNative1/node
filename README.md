@@ -2,6 +2,8 @@
 
 ## TODO
 
+[Aprende javascript](https://aprendejavascript.org/)
+
 Vue unit testing
 https://www.vuemastery.com/courses/unit-testing/what-to-test/
 
