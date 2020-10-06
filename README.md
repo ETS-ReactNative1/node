@@ -388,6 +388,8 @@ More references:
 
 [Robot](https://thisrobot.life/) Fast 1kB functional library for creating Finite State Machines
 
+[Danfo.js](https://developers-latam.googleblog.com/2020/09/presentamos-danfojs-una-biblioteca.html) es una biblioteca de JavaScript de código abierto que proporciona estructuras de datos de alto rendimiento, intuitivas y fáciles de usar para manipular y procesar datos estructurados. Está inspirada en gran medida en la biblioteca de Pandas para Python y proporciona una interfaz y API similares. Esto significa que los usuarios que están familiarizados con la API de Pandas y conocen JavaScript pueden comenzar a usarla de inmediato.
+
 # Herramientas
 
 [Bootstrap Studio](https://bootstrapstudio.io/) A powerful desktop app for creating responsive websites using the Bootstrap framework.
