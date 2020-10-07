@@ -512,8 +512,9 @@ https://watchandcode.com/p/practical-javascript
 This is a concise free course from Gordon Zhu that provides an excellent entry point for folks new to JS.
 
 https://javascript.info/
-
 This is a free book, and it is a comprehensive intro to JavaScript. It is freshly rewritten and provides an excellent starting point to learning JavaScript.
+
+[Best free resources to learn Node.js](https://twitter.com/nirbhayvashisht/status/1309163230338588672?s=12)
 
 # Recomendaciones
 
