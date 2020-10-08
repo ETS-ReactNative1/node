@@ -2,6 +2,10 @@
 
 ## TODO
 
+[SQL database engine purely using @typescript](https://twitter.com/c_pick/status/1307433762914009090) [Proyecto en Github](https://github.com/codemix/ts-sql)
+
+[Production best practices: performance and reliability in express](https://expressjs.com/en/advanced/best-practice-performance.html)
+
 [5 best practices for clean coding in JavaScript](https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am)
 
 [Aprende javascript](https://aprendejavascript.org/)
