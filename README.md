@@ -396,7 +396,9 @@ More references:
 
 # Herramientas
 
-[Bootstrap Studio](https://bootstrapstudio.io/) A powerful desktop app for creating responsive websites using the Bootstrap framework.
+* [Volta](https://github.com/volta-cli/volta) Install and run any JS tool quickly and seamlessly! Ensure everyone in your project has the same tools—without interfering with their workflow.
+No matter the package manager, Node runtime, or OS, one command is all you need: volta install.
+* [Bootstrap Studio](https://bootstrapstudio.io/) A powerful desktop app for creating responsive websites using the Bootstrap framework.
 
 [Glitch. Online Platform to develop node](https://blog.bitsrc.io/introduction-to-glitch-for-node-js-apps-in-the-cloud-cd263de5683f)
 
@@ -627,7 +629,8 @@ For this ionic tutorial I built an app with a question and answer format, where 
 
 [Aprende a crear tu propio videojuego en el navegador usando JavaScript gracias a este curso gratuito intensivo](https://m.genbeta.com/web/aprende-a-crear-tu-propio-videojuego-navegador-usando-javascript-gracias-a-este-curso-gratuito-intensivo/amp)
 
-[Functional JS](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
+* [Functional JS](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
+* [Coding "Snake" in 4 min 30 sec (plain browser JavaScript)](https://www.youtube.com/watch?v=xGmXxpIj6vs)
 
 # Google Chrome Extensions
 
@@ -641,6 +644,9 @@ Follow these steps and your idea will turn into reality and you’ll be able to 
 Creating a Chrome extension requires a manifest.json file which defines how your extension will behave. With a minimal setup, you can already manipulate pages and change elements. This lesson walks you through creating a manifest.json file which will essentially "block" twitter and reddit and tell you to get back to work.
 
 # WEB static
-[Cómo he migrado este blog de WordPress a Gatsby](https://asiermarques.com/2019/de-wordpress-a-gatsby/)
+
+* [Cómo he migrado este blog de WordPress a Gatsby](https://asiermarques.com/2019/de-wordpress-a-gatsby/)
+* [ALL YOUR HTML, Scrolling Images With WebGL](https://www.youtube.com/watch?v=ivg603bYDk8)
+* [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/course/code-your-first-game/)
 
 
