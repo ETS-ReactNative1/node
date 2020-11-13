@@ -1,6 +1,7 @@
 # node
 
 ## TODO
+* [Resumen operadores js](https://www.microsiervos.com/archivo/ordenadores/operadores-javascript-buscador-chuleta.html)
 
 [SQL database engine purely using @typescript](https://twitter.com/c_pick/status/1307433762914009090) [Proyecto en Github](https://github.com/codemix/ts-sql)
 
