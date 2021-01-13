@@ -403,6 +403,7 @@ More references:
 
 # Herramientas
 
+* [Beginner's Guide to JavaScript Static Code Analysis](https://dzone.com/articles/beginners-guide-to-javascript-static-code-analysis)
 * [Volta](https://github.com/volta-cli/volta) Install and run any JS tool quickly and seamlessly! Ensure everyone in your project has the same tools—without interfering with their workflow.
 No matter the package manager, Node runtime, or OS, one command is all you need: volta install.
 * [Bootstrap Studio](https://bootstrapstudio.io/) A powerful desktop app for creating responsive websites using the Bootstrap framework.
