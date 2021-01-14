@@ -639,6 +639,7 @@ For this ionic tutorial I built an app with a question and answer format, where 
 
 * [Functional JS](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
 * [Coding "Snake" in 4 min 30 sec (plain browser JavaScript)](https://www.youtube.com/watch?v=xGmXxpIj6vs)
+* [Pomotroid](https://madewithvuejs.com/pomotroid) Pomodoro Timer Desktop App
 
 # Google Chrome Extensions
 
