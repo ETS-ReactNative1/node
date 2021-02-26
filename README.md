@@ -2,6 +2,7 @@
 
 ## TODO
 
+* [How to extract pdf data with PDF.js](https://writingjavascript.com/how-to-extract-pdf-data-with-pdfjs)
 * [How to make a global weather app serving both iOS and Android users in ReactNative](https://corporate.foreca.com/en/news/how-to-make-a-global-weather-app-serving-both-ios-and-android-users)
 * [Clean Code JS](https://github.com/andersontr15/clean-code-javascript-es)
 * [Resumen operadores js](https://www.microsiervos.com/archivo/ordenadores/operadores-javascript-buscador-chuleta.html)
