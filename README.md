@@ -1,6 +1,7 @@
 # node
 
 ## TODO
+* [Learn how to implement your own secure sign-in for your web development projects using JavaScript, Node.js, and the Passport.js library](https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js/) You'll learn about HTTP headers, cookies, public key cryptography, and JSON Web Tokens. (6 hour YouTube course): 
 * [CodingPotions](https://codingpotions.com/)
 * [How to extract pdf data with PDF.js](https://writingjavascript.com/how-to-extract-pdf-data-with-pdfjs)
 * [How to make a global weather app serving both iOS and Android users in ReactNative](https://corporate.foreca.com/en/news/how-to-make-a-global-weather-app-serving-both-ios-and-android-users)
