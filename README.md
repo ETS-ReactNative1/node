@@ -1,5 +1,8 @@
 # node
 
+## HTML, CSS, JS
+* [HTML Autocomplete list](https://codepen.io/jjfalcon/pen/wvgErNg)
+
 ## TODO
 * [Learn how to implement your own secure sign-in for your web development projects using JavaScript, Node.js, and the Passport.js library](https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js/) You'll learn about HTTP headers, cookies, public key cryptography, and JSON Web Tokens. (6 hour YouTube course): 
 * [CodingPotions](https://codingpotions.com/)
