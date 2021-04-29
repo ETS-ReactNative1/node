@@ -6,6 +6,7 @@
 * [TodoList](https://github.com/devwithsammy/todolistapp) Testear [demo](https://devwithsammy.github.io/todolistapp/)
 
 ## TODO
+* [Free JavaScript Resources](https://www.java5cript.com/)
 * [js Regular Expressions Name Group](https://twitter.com/addyosmani/status/1386031624232456194?s=27)
 * [Js function parametros nombrados. Mejores practicas](https://www.youtube.com/watch?v=jmxZrIHPRDg)
 * [Learn how to implement your own secure sign-in for your web development projects using JavaScript, Node.js, and the Passport.js library](https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js/) You'll learn about HTTP headers, cookies, public key cryptography, and JSON Web Tokens. (6 hour YouTube course): 
