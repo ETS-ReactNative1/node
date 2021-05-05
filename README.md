@@ -6,6 +6,7 @@
 * [TodoList](https://github.com/devwithsammy/todolistapp) Testear [demo](https://devwithsammy.github.io/todolistapp/)
 
 ## TODO
+* [Array Methods](https://twitter.com/simonhoiberg/status/1389481427302035457?s=27)
 * [Free JavaScript Resources](https://www.java5cript.com/)
 * [js Regular Expressions Name Group](https://twitter.com/addyosmani/status/1386031624232456194?s=27)
 * [Js function parametros nombrados. Mejores practicas](https://www.youtube.com/watch?v=jmxZrIHPRDg)
