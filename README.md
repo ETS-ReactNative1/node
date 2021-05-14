@@ -5,6 +5,7 @@
 * [iPhone Calculator](https://codepen.io/jjfalcon/pen/mwEKQQ)
 * [TodoList](https://github.com/devwithsammy/todolistapp) Testear [demo](https://devwithsammy.github.io/todolistapp/)
 * [CSS resources and tips](https://twitter.com/prathkum/status/1392928641122701313?s=27)
+* [CSS icons](https://css.gg/)
 
 ## TODO
 * [Array Methods](https://twitter.com/simonhoiberg/status/1389481427302035457?s=27)
