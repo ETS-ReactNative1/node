@@ -7,6 +7,7 @@
 * [CSS resources and tips](https://twitter.com/prathkum/status/1392928641122701313?s=27)
 * [CSS icons](https://css.gg/)
 * [HMTL es easy, CCS is the next level](https://twitter.com/Prathkum/status/1392857374940033024)
+* [The HTML Rodmap](https://twitter.com/prathkum/status/1393991801841717255?s=27)
 
 ## TODO
 * [Array Methods](https://twitter.com/simonhoiberg/status/1389481427302035457?s=27)
