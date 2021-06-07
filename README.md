@@ -1,5 +1,7 @@
 # node
 
+* [Essential tips that every aspiring or new web developer should take to heart](https://twitter.com/oliverjumpertz/status/1401545563548622850)
+
 ## HTML, CSS, JS
 * [HTML Autocomplete list](https://codepen.io/jjfalcon/pen/wvgErNg)
 * [iPhone Calculator](https://codepen.io/jjfalcon/pen/mwEKQQ)
