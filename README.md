@@ -8,6 +8,19 @@
 * [CSS icons](https://css.gg/)
 * [HMTL es easy, CCS is the next level](https://twitter.com/Prathkum/status/1392857374940033024)
 * [The HTML Rodmap](https://twitter.com/prathkum/status/1393991801841717255?s=27)
+* [5 great gradient background sites for every web developer and designer](https://twitter.com/prathkum/status/1399768864230195203?s=27)
+ * [uiGradients](https://uigradients.com/)
+ * [EggGradients](https://www.eggradients.com/)
+ * [MeshGradient](https://meshgradient.com/)
+ * [CSS-gradient](https://www.css-gradient.com/)
+ * [Gradienta](https://gradienta.io/)
+ * [Omatsuri](https://omatsuri.app/gradient-generator)
+* [5 great websites a web developer should visit ](https://twitter.com/prathkum/status/1400414868021387264?s=27)
+ * [CanIUse](https://caniuse.com/) provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+ * [Web Skills](https://andreasbm.github.io/web-skills/) Websites for all kind of learning resources for web developers
+ * [Learn Shell](https://www.learnshell.org/) this website is intended for everyone who wishes to learn programming with Unix/Linux shell interpreters.
+ * [Programming Language Converter](https://ide.onelang.io/) This is a super cool tool where you can convert code from one programming language into another.
+ * [Git Ignore](https://toptal.com/developers/gitignore) A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
 
 ## TODO
 * [Array Methods](https://twitter.com/simonhoiberg/status/1389481427302035457?s=27)
