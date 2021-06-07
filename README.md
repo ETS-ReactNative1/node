@@ -21,6 +21,7 @@
  * [Learn Shell](https://www.learnshell.org/) this website is intended for everyone who wishes to learn programming with Unix/Linux shell interpreters.
  * [Programming Language Converter](https://ide.onelang.io/) This is a super cool tool where you can convert code from one programming language into another.
  * [Git Ignore](https://toptal.com/developers/gitignore) A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
+* [Visualize JS code](https://twitter.com/Prathkum/status/1401526935373680642) [JS Visualizer 9000](https://www.jsv9000.app/) [Binary visualizer](https://binary0101.netlify.app/)
 
 ## TODO
 * [Array Methods](https://twitter.com/simonhoiberg/status/1389481427302035457?s=27)
