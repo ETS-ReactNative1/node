@@ -27,7 +27,10 @@
 * [6 GitHub repositories that can help you in writing better CSS code](https://twitter.com/prathkum/status/1402661175310131204?s=27)
  * [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning)
  * [Spin Kit](https://github.com/tobiasahlin/SpinKit)
- * [Hover]()
+ * [Hover](https://github.com/IanLunn/Hover)
+ * [Magic of CSS](https://github.com/adamschwartz/magic-of-css)
+ * [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
+ * [CSS Pro Tip](https://github.com/AllThingsSmitty/css-protips)
 
 ## TODO
 * [Array Methods](https://twitter.com/simonhoiberg/status/1389481427302035457?s=27)
