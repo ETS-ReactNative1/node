@@ -3,6 +3,7 @@
 * [Essential tips that every aspiring or new web developer should take to heart](https://twitter.com/oliverjumpertz/status/1401545563548622850)
 
 ## HTML, CSS, JS
+* [6 tips to reduce load times of your webpages](https://twitter.com/anuragstwt/status/1405219294179323904?s=27)
 * [HTML Autocomplete list](https://codepen.io/jjfalcon/pen/wvgErNg)
 * [iPhone Calculator](https://codepen.io/jjfalcon/pen/mwEKQQ)
 * [TodoList](https://github.com/devwithsammy/todolistapp) Testear [demo](https://devwithsammy.github.io/todolistapp/)
