@@ -32,6 +32,7 @@
  * [Magic of CSS](https://github.com/adamschwartz/magic-of-css)
  * [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
  * [CSS Pro Tip](https://github.com/AllThingsSmitty/css-protips)
+* [JavaScript for Web Development](https://twitter.com/prathkum/status/1406298132737150976?s=27) JavaScript is an enormous language but you don't need to learn everything in the beginning. Here is a detailed explanation.
 
 ## TODO
 * [Array Methods](https://twitter.com/simonhoiberg/status/1389481427302035457?s=27)
