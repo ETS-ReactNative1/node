@@ -3,6 +3,15 @@
 * [Essential tips that every aspiring or new web developer should take to heart](https://twitter.com/oliverjumpertz/status/1401545563548622850)
 
 ## HTML, CSS, JS
+* [8 Free Sites for Web Developers](https://twitter.com/csaba_kissi/status/1410632523936194560)
+  * [Fontjoy](https://fontjoy.com/) helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.
+  * [Hidden tools](https://hiddentools.dev/) Explore a collection of tools to use for your next project. Search, filter, and find tools from a ton of different categories.
+  * [Ray](https://ray.so/). Turn your code into beautiful images
+  * [Magic patterns](https://www.magicpattern.design/) generate SVG/CSS patterns, gradients, and organic shapes to brand your product and social media posts. 
+  * [Programming language convertor](https://ide.onelang.io/) A helpful tool where you can write & convert your code from one programming language into another.
+  * [Json Placeholder](https://jsonplaceholder.typicode.com) Free fake API for testing and prototyping.
+  * [Git Explorer](https://gitexplorer.com/) Find the right git commands you need without digging through the web
+  * [Mobile Palette Creator](https://mobilepalette.colorion.co/) Generate stunning color palettes for your next mobile app.
 * [6 tips to reduce load times of your webpages](https://twitter.com/anuragstwt/status/1405219294179323904?s=27)
 * [HTML Autocomplete list](https://codepen.io/jjfalcon/pen/wvgErNg)
 * [iPhone Calculator](https://codepen.io/jjfalcon/pen/mwEKQQ)
@@ -12,26 +21,26 @@
 * [HMTL es easy, CCS is the next level](https://twitter.com/Prathkum/status/1392857374940033024)
 * [The HTML Rodmap](https://twitter.com/prathkum/status/1393991801841717255?s=27)
 * [5 great gradient background sites for every web developer and designer](https://twitter.com/prathkum/status/1399768864230195203?s=27)
- * [uiGradients](https://uigradients.com/)
- * [EggGradients](https://www.eggradients.com/)
- * [MeshGradient](https://meshgradient.com/)
- * [CSS-gradient](https://www.css-gradient.com/)
- * [Gradienta](https://gradienta.io/)
- * [Omatsuri](https://omatsuri.app/gradient-generator)
+  * [uiGradients](https://uigradients.com/)
+  * [EggGradients](https://www.eggradients.com/)
+  * [MeshGradient](https://meshgradient.com/)
+  * [CSS-gradient](https://www.css-gradient.com/)
+  * [Gradienta](https://gradienta.io/)
+  * [Omatsuri](https://omatsuri.app/gradient-generator)
 * [5 great websites a web developer should visit ](https://twitter.com/prathkum/status/1400414868021387264?s=27)
- * [CanIUse](https://caniuse.com/) provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
- * [Web Skills](https://andreasbm.github.io/web-skills/) Websites for all kind of learning resources for web developers
- * [Learn Shell](https://www.learnshell.org/) this website is intended for everyone who wishes to learn programming with Unix/Linux shell interpreters.
- * [Programming Language Converter](https://ide.onelang.io/) This is a super cool tool where you can convert code from one programming language into another.
- * [Git Ignore](https://toptal.com/developers/gitignore) A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
+  * [CanIUse](https://caniuse.com/) provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+  * [Web Skills](https://andreasbm.github.io/web-skills/) Websites for all kind of learning resources for web developers
+  * [Learn Shell](https://www.learnshell.org/) this website is intended for everyone who wishes to learn programming with Unix/Linux shell interpreters.
+  * [Programming Language Converter](https://ide.onelang.io/) This is a super cool tool where you can convert code from one programming language into another.
+  * [Git Ignore](https://toptal.com/developers/gitignore) A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
 * [Visualize JS code](https://twitter.com/Prathkum/status/1401526935373680642) [JS Visualizer 9000](https://www.jsv9000.app/) [Binary visualizer](https://binary0101.netlify.app/)
 * [6 GitHub repositories that can help you in writing better CSS code](https://twitter.com/prathkum/status/1402661175310131204?s=27)
- * [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning)
- * [Spin Kit](https://github.com/tobiasahlin/SpinKit)
- * [Hover](https://github.com/IanLunn/Hover)
- * [Magic of CSS](https://github.com/adamschwartz/magic-of-css)
- * [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
- * [CSS Pro Tip](https://github.com/AllThingsSmitty/css-protips)
+  * [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning)
+  * [Spin Kit](https://github.com/tobiasahlin/SpinKit)
+  * [Hover](https://github.com/IanLunn/Hover)
+  * [Magic of CSS](https://github.com/adamschwartz/magic-of-css)
+  * [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
+  * [CSS Pro Tip](https://github.com/AllThingsSmitty/css-protips)
 * [JavaScript for Web Development](https://twitter.com/prathkum/status/1406298132737150976?s=27) JavaScript is an enormous language but you don't need to learn everything in the beginning. Here is a detailed explanation.
 
 ## TODO
