@@ -54,62 +54,129 @@
 * [How to make a global weather app serving both iOS and Android users in ReactNative](https://corporate.foreca.com/en/news/how-to-make-a-global-weather-app-serving-both-ios-and-android-users)
 * [Clean Code JS](https://github.com/andersontr15/clean-code-javascript-es)
 * [Resumen operadores js](https://www.microsiervos.com/archivo/ordenadores/operadores-javascript-buscador-chuleta.html)
+* [SQL database engine purely using @typescript](https://twitter.com/c_pick/status/1307433762914009090) [Proyecto en Github](https://github.com/codemix/ts-sql)
+* [Production best practices: performance and reliability in express](https://expressjs.com/en/advanced/best-practice-performance.html)
+* [5 best practices for clean coding in JavaScript](https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am)
+* [Aprende javascript](https://aprendejavascript.org/)
+* [Vue unit testing](https://www.vuemastery.com/courses/unit-testing/what-to-test/)
+* [Object Oriented Programming in JavaScript – Explained with Examples](https://www.freecodecamp.org/news/how-javascript-implements-oop/)
+* [How to build and deploy a portfolio website - Video Course](https://www.freecodecamp.org/news/how-to-build-a-portfolio-website-and-deploy-to-digital-ocean/)
+* [An experienced developer shares his favorite Chrome DevTools tips and tricks (5 minute read)](https://www.freecodecamp.org/news/awesome-chrome-dev-tools-tips-and-tricks/)
+* [How to Build a Piano Keyboard Using Vanilla JavaScript](https://www.freecodecamp.org/news/javascript-piano-keyboard/)
+* [How to build a Progressive Web App from scratch with HTML, CSS, and JavaScript](https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/) You'll build a simple coffee menu app that uses service workers and continues working even if you disconnect from the internet. (10 minute read)
+* [Learning Modern JavaScript with Tetris](https://twitter.com/javascriptdaily/status/1203022042745974789?s=11)
+* [Build a Weight Tracker App with Node.js and PostgreSQL](https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql)
+* [CodePen](https://codepen.io/) The best place to build, test, and discover front-end code. CodePen is a social development environment for front-end designers and developers. * [Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration](https://twitter.com/js_tut/status/1210037813204402177?s=11)
+* [How to deploy a website in just 3 minutes straight from your Google Drive. (6 minute read)](https://www.freecodecamp.org/news/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive/)
+* [How to make your first JavaScript chart using the JSCharting library - a detailed tutorial with code examples. (18 minute read)](https://www.freecodecamp.org/news/how-to-make-your-first-javascript-chart/)
+* [The Ultimate Guide to End to End Tests with Selenium and Docker](https://www.freecodecamp.org/news/end-to-end-tests-with-selenium-and-docker-the-ultimate-guide/)
+* [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
+* [Publish NPM package with GitHub Actions](https://juffalow.com/javascript/publish-npm-package-with-github-actions)
+* [How to write clean code](https://www.freecodecamp.org/news/javascript-naming-convention/) An overview of JavaScript best practices and coding conventions. 8 minute read, plus video
+* [Credir Card Form in Vue](https://codepen.io/JavaScriptJunkie/pen/YzzNGeR)
+* [An overview of Progressive Web App development](https://www.freecodecamp.org/news/practical-tips-on-progressive-web-app-development/)
+* [A complete guide to end-to-end API testing with Docker](https://www.freecodecamp.org/news/end-to-end-api-testing-with-docker/) You'll build a Node/Express API and test it with Chai and Mocha. (19 minute read) 
+* [Why you should use SVG images, and how to animate your SVGs and make them lightning fast (5 minute read)](https://www.freecodecamp.org/news/a-fresh-perspective-at-why-when-and-how-to-use-svg/)
+* [Tailwind CSS](https://tailwindcss.com/) A utility-first CSS framework for rapidly building custom designs.
+Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override. [More](https://egghead.io/playlists/introduction-to-tailwind-and-the-utility-first-workflow-0b697b10)
+* [Learn UI design fundamental](https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-one-hour-course/) This course will teach you User Interface Design fundamentals like whitespace, visual hierarchy, and typography (1 hour interactive course) 
 
-[SQL database engine purely using @typescript](https://twitter.com/c_pick/status/1307433762914009090) [Proyecto en Github](https://github.com/codemix/ts-sql)
+* [Learn how to build your own social media app from scratch using React, Redux, Firebase, and Express](https://www.freecodecamp.org/news/react-firebase-social-media-app-course/) - a full-length intermediate  course - all free and with no ads (12 hour watch): 
+* [3 Approaches for Using the Google Sheets API in Node.js: A Tutorial](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/)
+* [How I built my first React Native app for my first freelance client](https://medium.freecodecamp.org/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1)
+* [The Modern JavaScript Tutorial](https://javascript.info/) From the basics to advanced topics with simple, but detailed explanations. Main course contains 2 parts which cover JavaScript as a programming language and working with a browser. There are also additional series of thematic articles.
+* [Front End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+* [Bulletproof node.js project architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf) The correct organization of your node.js project structure will avoid duplication of code, will improve stability, and potentially, will help you scale your services if is done correctly.
+* [Google Cloud Functions, Node.js and Express](https://itnext.io/google-cloud-functions-node-js-and-express-aea4a2a9ba3a)
+* [Cómo instalar aplicaciones web progresivas (PWA) en Chrome desde Windows o macOS](https://www.genbeta.com/paso-a-paso/como-instalar-aplicaciones-web-progresivas-pwa-chrome)
+* [Dynamic image resizing with Node.js and the Serverless Framework](https://serverless.com/blog/dynamic-image-resizing-nodejs/) In this article, we'll take an in-depth look at the benefits of dynamic image resizing and walk you through using the Serverless Framework to resize your images dynamically with AWS Lambda. So, let's get to it!
+* [The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
+* [Website with blog and portfolio using Vue.js + Nuxt + Markdown](https://marinaaisa.com/blog/blog-using-vue-nuxt-markdown/) How I created my new website with portfolio and blog in two languages. What technology I used and why.
+* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md) Clean Code Javascript es un repositorio en GitHub que contiene un montón de consejos, ejemplos y convenciones para crear un código limpio y mantenible. Desde naming de variables y funciones hasta SOLID y manejo de errores. ¡Recomendadísimo! 
+* [Seven reasons to learn Vue.js in 2019](https://dev.to/rossta/seven-reasons-learn-vuejs-in-2019-2n9o)
+* [10 Best Tips for Learning Vue from Vue Masters](https://medium.com/vue-mastery/10-best-tips-for-learning-vue-from-vue-masters-a21c794b1e6e) If you’re a developer who is just starting out with Vue.js, jumping in can be both exciting and overwhelming. While everybody’s learning process is very different, I asked six Vue Masters the following question “What advice would you give developers who are just starting Vue.js that you wish you would have known?”
+* [Tip: Get the unique values of an array in JavaScript](https://twitter.com/addyosmani/status/1080727964411674624?s=11)
+* [The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66) Objects are the foundation of JavaScript and permeate its every aspect. Almost everything in JavaScript is an object. In fact, only six things are not objects. They are — null,undefined, strings, numbers, boolean, and symbols. These are called primitive values or primitive types.
+* [Nuxt.js](https://nuxtjs.org/) Nuxt.js presets all the configuration needed to make your development of a Vue.js application enjoyable.
+* [Web con blog y portfolio usando Vue.js + Nuxt + Markdown](https://marinaaisa.com/es/blog/blog-usando-vue-nuxt-markdown/) Cómo he creado mi nueva web con portfolio y blog en dos idiomas. Qué tecnología he utilizado y por qué
+* [How to build a Node.js server that scales](https://medium.freecodecamp.org/writing-scalable-architecture-for-node-js-2b58e0523d7f)
+* [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines#testing)
+* [How to use NodeJS without frameworks and external libraries](https://adityasridhar.com/posts/how-to-use-nodejs-without-frameworks-and-external-libraries)
+* [Write tests. Not too many. Mostly integration](https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c)
+* [Build a Basic CRUD App with Vue.js and Node](https://www.sitepoint.com/build-a-basic-crud-app-with-vue-js-and-node/) This tutorial will take you step by step through scaffolding a Vue.js project, offloading secure authentication to Okta’s OpenID Connect API (OIDC), locking down protected routes, and performing CRUD operations through a backend REST API server.
+* [Pruebas asíncronas en node.js](http://pinchito.es/2013/pruebas-asincronas.html)
+* [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417) Who hasn’t dreamt they could create web and mobile applications from scratch in a matter of days, while using cutting-edge technologies? With good programming patterns and a well-chosen framework, this dream is not as unrealistic as it seems… and Vulcan.js is the answer!
+* [Hello, Create React App 2.0!](https://www.telerik.com/blogs/hello-create-react-app-2) Create React App provides an environment for learning React with zero configuration, developed by the React team at Facebook Open Source to help you jump-start your application. 
+* [Minicurso Gratuito React.js y Firebase](https://cursos.carlosazaustre.es/courses/enrolled/169975)
+* [Curso en Youtube](https://www.youtube.com/watch?v=M76SUpBf_3o&list=PLUdlARNXMVkn5_dwhSfC3WzqRrGhsfqu5)
+* [Building a Simple CRUD Application with Express and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
+* [Writing a CRUD app with Node.js and MongoDB](https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb)
+* [A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe) creating a production-ready Express API running on AWS Lambda with a persistent MongoDB data store.
+* [A pure javascript QR code reading library](https://github.com/cozmo/jsQR)
+* [I created the exact same TODO app in React and Vue. Here are the differences](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
+* [Creating an Instagram Bot With Node.js](https://hackernoon.com/how-to-create-an-instagram-bot-with-node-js-a289185a7d6f)
+* [Building a simple static site generator using Node.js](https://smalldata.tech/blog/2018/08/16/building-a-simple-static-site-generator-using-node-js)
+* [Hello vue. A quicjk tutorial on Getting Started with Vue](https://www.telerik.com/blogs/hello-vue-a-quick-tutorial-on-getting-started-with-vue)
+* [Tutorial - Build an instagram clone with vue js and cssgram](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
+* [Build A Simple Beginner App With Node, Bootstrap & MongoDB](https://www.sitepoint.com/build-simple-beginner-app-node-bootstrap-mongodb/)
+* [Create a simple weather app using Node.js, Express, and React](https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a)
+* [Twitter Sentiment Analysis using NodeJS](https://boostlog.io/@anshulc95/twitter-sentiment-analysis-using-nodejs-5ad1331247018500491f3b6a)
+* [Installable Web Apps: A Practical Introduction To PWAs with JavaScript and Node.js](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html)
+* [Offline-First with Node.js and Hoodie: A Practical Introduction to Progressive Web Apps](https://dev.to/pmbanugo/offline-first-with-nodejs-and-hoodie-a-practical-introduction-to-progressive-web-apps-5f57)
+* [How to use Chrome DevTools to do modern web development right in your browser (50 minute watch)](https://www.youtube.com/watch?v=wz1Sy5C039M)
+* [An overview of Visual Studio Code - Microsoft's open source code editor - for front-end developers (8 minute read)](https://medium.freecodecamp.org/49a4aa0771fb)
+* [How to build Desktop apps in JavaScript: multithreading, SQLite, native modules, and other common Electron pain points (9 minute read)](https://medium.freecodecamp.org/1679d5ec0ac)
+* [Ahora puedes implementar tu app de Node.js en el entorno estándar de App Engine](https://developers-latam.googleblog.com/2018/06/blog-de-google-cloud-platform-ahora.html)
+* [How to deploy a Node.js application to AWS Lambda using Serverless](https://dev.to/adnanrahic/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless-2nc7)
+* [Tu primera Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=es)
+* [Demo Progressive Web App](https://github.com/gokulkrishh/demo-progressive-web-app)
+* [Offline-First Progressive Web Apps (PWA) in Vue.js](https://egghead.io/courses/offline-first-progressive-web-apps-pwa-in-vue-js)
+* [Create a simple weather app using Node.js, Express, and React](https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a)
+* [Como hacer una App Lista de Tareas con Javascript](https://www.youtube.com/watch?v=QEp5MwFneRQ&index=23&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G) tutorial dentro de un buen curso Básico de Javascript desde 0
+* [Build a Serverless Online Quiz with Google Cloud Functions and Cloud Firestore](https://rominirani.com/build-a-serverless-online-quiz-with-google-cloud-functions-and-cloud-firestore-1e3fbf84a7d8)
+* [Node.js, Express.js, Mongoose.js and Passport.js Authentication](https://www.djamware.com/post/58bd823080aca7585c808ebf/nodejs-expressjs-mongoosejs-and-passportjs-authentication)
+* [Cómo crear un API REST con autenticacion en 30 segundos](https://www.desarrolloweb.com/articulos/api-rest--autenticacion-jwt.html)
+* [TodoMVC](http://todomvc.com/) Helping you select an MV* framework
+* [ggalmazor - Refactoring to functions workshop](https://github.com/ggalmazor/string-calculator-es6-refactor-workshop)
+This is a NodeJS project. You should do the following steps build:
+NodeJS 6 or greater is required
+`git clone https://github.com/ggalmazor/string-calculator-es6-refactor-workshop.git`
+Enter directory cloned `cd string-calculator-es6-refactor-workshop`
+Download dependencies with `npm install` or `yarn`
+Run the tests with `npm run test` or `yarn test`
+If you can follow these steps and you get a report of 7 passing tests, sit back and relax.
 
-[Production best practices: performance and reliability in express](https://expressjs.com/en/advanced/best-practice-performance.html)
+* [Demystifying JavaScript’s ‘new’ keyword](https://medium.freecodecamp.org/demystifying-javascripts-new-keyword-874df126184c)
+* [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
+* [Tutorial : Flutter App powered by Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957)
+* [Structuring JavaScript projects for testability](Structuring JavaScript projects for testability)
+* [10 Tips for Javascript Debugging Like a PRO with Console](https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6)
+* [Iniciación a NodeJS con ejemplos básicos](https://github.com/LuisJoseSanchez/nodejs-iniciacion/blob/master/README.md)
+* [NodeJS, Express y Jade (Pug). Ejemplos básicos.](https://github.com/LuisJoseSanchez/nodejs-express-jade/blob/master/README.md)
+* [Aplicaciones de alto rendimiento con Node.js (V). Ejemplos de conexion a BBDD](https://www.sidertia.com/Home/Community/Blog/2015/04/27/Aplicaciones-de-alto-rendimiento-con-Nodejs-V-Ejemplos-de-conexion-a-BBDD)
+* [Express.js Tutorial: Building RESTful APIs with Node and Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+* [MONTAR UN API REST CON NODEJS Y EXPRESS](https://www.luisllamas.es/montar-un-api-rest-con-nodejs-y-express/)
+* [Como crear una API REST usando node express mongoDB](https://carlosazaustre.es/como-crear-una-api-rest-usando-node-js/)
+* [Iniciación a NodeJS con ejemplos básicos](https://github.com/LuisJoseSanchez/nodejs-iniciacion/blob/master/README.md)
+* [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg) una demo muy basica y dinamica de como funciona javascript en browser.
+* [Live Coding a Trello Clone with AngularJS and Node.js (MEAN stack)](https://www.youtube.com/watch?v=ssXqKDS2dlw)
+* [Implementing SOLID and the onion architecture in Node.js with TypeScript and InversifyJS](https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad)
+* [The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
+* [A complete guide to threads in Node.js](https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f)
+* UI Testing Myths
+  * Myth 1: "Tests always break when I make any changes to the code"
+This is actually a truth... if the tests are written incorrectly. If your test is testing implementation details, then of course they’ll break when the implementation changes! But your user doesn’t care about the implementation details. In fact, they don’t even care whether you’re using React, Angular, or jQuery. So for the most part, your tests shouldn’t care about that either. 💯 Unfortunately, many tools out there encourage testing implementation details. Do that and you’ll often wind up rewriting tests. “Why am I even testing this!?” you’ll ask yourself, and I don’t blame you. That’s why on TestingJavaScript.com I show you how test the right way.
 
-[5 best practices for clean coding in JavaScript](https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am)
+  * Myth 2: "I can’t test a “connected” redux component"
+The conventional wisdom of testing components that use Redux is that you should test the component in isolation from Redux, and then test the Redux action creators and reducers separately. But if you do this, your tests can’t give you any confidence that your components communicate properly with Redux. Instead, you can actually test your connected component with your real Redux store. Do this, and you’ll get the confidence that your component is rendering properly, and that the Redux action creators and reducers are all working together in tandem. Just like they will in production. ✅ On TestingJavaScript.com, I show you how to test in this way. The same concepts apply for React Router 🔀 and other providers (like the Theme Provider from emotion 👩‍🎤), and the course will show how to apply this method to those, too!
 
-[Aprende javascript](https://aprendejavascript.org/)
+  * Myth 3: "End-to-End tests are slow and brittle"
+This, too, can be true if the tests are written incorrectly. A common mistake I see in E2E testing is doing the same things in every test—for instance, every test going through the whole registration and login flow before doing whatever is needed for the test. When you do stuff like this, you start seeing a lot of duplication, and that’s when you start creating things like “page objects” (which is a poor practice). 😐 On TestingJavaScript.com, I show you how you can get confidence that the registration and login flows are working, and then skip those for the rest of your tests so you can significantly speed up the tests and reduce the points of failure. When you write tests this way and use tools like cypress-testing-library, practices like page objects are totally unnecessary, and your tests are easier to maintain, more reliable, and run faster. You might even find yourself replacing Chrome with Cypress as your development workflow tool (which I show you how to do in the course as well!) 😱
 
-Vue unit testing
-https://www.vuemastery.com/courses/unit-testing/what-to-test/
-
-Object Oriented Programming in JavaScript – Explained with Examples
-https://www.freecodecamp.org/news/how-javascript-implements-oop/
-
-How to build and deploy a portfolio website - Video Course
-https://www.freecodecamp.org/news/how-to-build-a-portfolio-website-and-deploy-to-digital-ocean/
-
-An experienced developer shares his favorite Chrome DevTools tips and tricks (5 minute read): https://www.freecodecamp.org/news/awesome-chrome-dev-tools-tips-and-tricks/
-
-[How to Build a Piano Keyboard Using Vanilla JavaScript](https://www.freecodecamp.org/news/javascript-piano-keyboard/)
-
-[How to build a Progressive Web App from scratch with HTML, CSS, and JavaScript](https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/) You'll build a simple coffee menu app that uses service workers and continues working even if you disconnect from the internet. (10 minute read)
-
-[Learning Modern JavaScript with Tetris](https://twitter.com/javascriptdaily/status/1203022042745974789?s=11)
-
-[Build a Weight Tracker App with Node.js and PostgreSQL](https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql)
-
-[CodePen](https://codepen.io/) The best place to build, test, and discover front-end code. CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
-https://twitter.com/js_tut/status/1210037813204402177?s=11
-
-How to deploy a website in just 3 minutes straight from your Google Drive. (6 minute read): https://www.freecodecamp.org/news/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive/
-
-How to make your first JavaScript chart using the JSCharting library - a detailed tutorial with code examples. (18 minute read): https://www.freecodecamp.org/news/how-to-make-your-first-javascript-chart/
-
-[The Ultimate Guide to End to End Tests with Selenium and Docker](https://www.freecodecamp.org/news/end-to-end-tests-with-selenium-and-docker-the-ultimate-guide/)
-
-[20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
-
-[Publish NPM package with GitHub Actions](https://juffalow.com/javascript/publish-npm-package-with-github-actions)
-
-[How to write clean code](https://www.freecodecamp.org/news/javascript-naming-convention/) An overview of JavaScript best practices and coding conventions. 8 minute read, plus video
-
-[Credir Card Form in Vue](https://codepen.io/JavaScriptJunkie/pen/YzzNGeR)
-
-[An overview of Progressive Web App development](https://www.freecodecamp.org/news/practical-tips-on-progressive-web-app-development/)
-
-[A complete guide to end-to-end API testing with Docker](https://www.freecodecamp.org/news/end-to-end-api-testing-with-docker/) You'll build a Node/Express API and test it with Chai and Mocha. (19 minute read) 
-
-[Why you should use SVG images, and how to animate your SVGs and make them lightning fast (5 minute read)](https://www.freecodecamp.org/news/a-fresh-perspective-at-why-when-and-how-to-use-svg/)
-
-[Tailwind CSS](https://tailwindcss.com/) A utility-first CSS framework for rapidly building custom designs.
-Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
-https://egghead.io/playlists/introduction-to-tailwind-and-the-utility-first-workflow-0b697b10
-
-[Learn UI design fundamental](https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-one-hour-course/) This course will teach you User Interface Design fundamentals like whitespace, visual hierarchy, and typography (1 hour interactive course) 
+  * More references:
+    * [Common Myths of Test Automation](https://www.testingexcellence.com/common-myths-test-automation/)
+    * [6 Popular Myths in Test Automation You Must Know](https://www.testbytes.net/blog/6-popular-myths-in-test-automation-you-must-know/)
+    * [Node.js & JavaScript Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347)
 
 ## Tutorial
 
@@ -159,46 +226,26 @@ Salva el fichero y ejecuta el comando:
 Verás en el terminal 'Server Started' y abriendo en navegador [http://localhost:8080](http://localhost:8080) aparece el mensaje 'Hello Server'
 
 ## 03-Testing
-
-[Making your UI tests resilient to change](https://kentcdodds.com/blog/making-your-ui-tests-resilient-to-change)
-
-[Testing React — an overview](https://medium.com/dailyjs/testing-react-an-overview-56204839cbad) Testing your frontend application has never been easier before. Within this article, I’ll explain different levels of testing your application as well as the most suited solutions for testing the specified levels. Also, there is a repository located at https://gitlab.com/takethefake/react-testing-todo where all best practices are used.
-
-[Demystifying JavaScript Testing](https://css-tricks.com/demystifying-javascript-testing/)
-
-[Da potencia y flexibilidad a tus tests con Jest](https://www.genbeta.com/desarrollo/da-potencia-flexibilidad-tus-tests-jest)
-
-[What is a JavaScript test?](https://www.javascriptjanuary.com/blog/but-really-what-is-a-javascript-test)
-
-[Unit testing in JavaScript Part 3 - Test runners](https://www.youtube.com/watch?reload=9&v=pdx2HjFRaJY&feature=em-subs_digest)
-
-[Unit testing in JavaScript Part 6 - Red, Green, Refactor and Jest mocks](https://www.youtube.com/watch?v=yIcpju9O4ZQ)
-
-[Curso de Testing Javascript Moderno](http://www.etnassoft.com/2013/10/16/curso-de-testing-javascript-moderno-parte-1-introduccion-y-herramientas/)
-
-[Lo mejor y peor de Mocha y de los unit tests en JavaScript](https://solidgeargroup.com/mocha-unit-tests-en-javascript?lang=es)
-
-[A TDD Approach to Building a Todo API Using Node.js and MongoDB](https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb)
-
-[End to End Testing with Google's Puppeteer and Jest](https://egghead.io/courses/end-to-end-testing-with-google-s-puppeteer-and-jest)
-
-[Cypress](https://www.nuevatribuna.es/articulo/sanidad/deberiamos-tener-empresa-farmaceutica-publica/20181210120232158249.html) Fast, easy and reliable testing for anything that runs in a browser.
-
-[Pruebas asíncronas en node.js](http://pinchito.es/2013/pruebas-asincronas.html)
-
-[An Async Example](https://facebook.github.io/jest/docs/es-ES/tutorial-async.html#)
-
-[Jest. Matchers](https://doc.ebichu.cc/jest/docs/es-ES/using-matchers.html#content)
-
-[Testing Asynchronous Code](https://doc.ebichu.cc/jest/docs/en/asynchronous.html)
-
-[An Async Example](https://jestjs.io/docs/es-ES/tutorial-async.html)
-
-[Awesome automated testing setup](https://til.philipsotirov.com/start-server-and-test)
-
-[How to Test JavaScript Code in a Browser](https://dzone.com/articles/how-to-test-javascript-code-in-a-browser?edition=408224&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-10-25)
-
-[Contract Testing for Node.js Microservices with Pact](https://medium.com/dailyjs/contract-testing-for-node-js-microservices-with-pact-8318849c31dd) Contract testing helps ensure the compatibility of microservices and decouples the development and deployment processes of software teams.
+* [Making your UI tests resilient to change](https://kentcdodds.com/blog/making-your-ui-tests-resilient-to-change)
+* [Testing React — an overview](https://medium.com/dailyjs/testing-react-an-overview-56204839cbad) Testing your frontend application has never been easier before. Within this article, I’ll explain different levels of testing your application as well as the most suited solutions for testing the specified levels. Also, there is a repository located at https://gitlab.com/takethefake/react-testing-todo where all best practices are used.
+* [Demystifying JavaScript Testing](https://css-tricks.com/demystifying-javascript-testing/)
+* [Da potencia y flexibilidad a tus tests con Jest](https://www.genbeta.com/desarrollo/da-potencia-flexibilidad-tus-tests-jest)
+* [What is a JavaScript test?](https://www.javascriptjanuary.com/blog/but-really-what-is-a-javascript-test)
+* [Unit testing in JavaScript Part 3 - Test runners](https://www.youtube.com/watch?reload=9&v=pdx2HjFRaJY&feature=em-subs_digest)
+* [Unit testing in JavaScript Part 6 - Red, Green, Refactor and Jest mocks](https://www.youtube.com/watch?v=yIcpju9O4ZQ)
+* [Curso de Testing Javascript Moderno](http://www.etnassoft.com/2013/10/16/curso-de-testing-javascript-moderno-parte-1-introduccion-y-herramientas/)
+* [Lo mejor y peor de Mocha y de los unit tests en JavaScript](https://solidgeargroup.com/mocha-unit-tests-en-javascript?lang=es)
+* [A TDD Approach to Building a Todo API Using Node.js and MongoDB](https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb)
+* [End to End Testing with Google's Puppeteer and Jest](https://egghead.io/courses/end-to-end-testing-with-google-s-puppeteer-and-jest)
+* [Cypress](https://www.nuevatribuna.es/articulo/sanidad/deberiamos-tener-empresa-farmaceutica-publica/20181210120232158249.html) Fast, easy and reliable testing for anything that runs in a browser.
+* [Pruebas asíncronas en node.js](http://pinchito.es/2013/pruebas-asincronas.html)
+* [An Async Example](https://facebook.github.io/jest/docs/es-ES/tutorial-async.html#)
+* [Jest. Matchers](https://doc.ebichu.cc/jest/docs/es-ES/using-matchers.html#content)
+* [Testing Asynchronous Code](https://doc.ebichu.cc/jest/docs/en/asynchronous.html)
+* [An Async Example](https://jestjs.io/docs/es-ES/tutorial-async.html)
+* [Awesome automated testing setup](https://til.philipsotirov.com/start-server-and-test)
+* [How to Test JavaScript Code in a Browser](https://dzone.com/articles/how-to-test-javascript-code-in-a-browser?edition=408224&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-10-25)
+* [Contract Testing for Node.js Microservices with Pact](https://medium.com/dailyjs/contract-testing-for-node-js-microservices-with-pact-8318849c31dd) Contract testing helps ensure the compatibility of microservices and decouples the development and deployment processes of software teams.
 
 ## 03-Counter
 Presentar un contador de accesos facilmente sin necesitar ninguna base de datos creando el fichero '03-Counter.js' con el codigo:
@@ -254,192 +301,6 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 * Vue.js with vue-cli, vue-router, and Okta Vue SDK
 * Node with Express, Okta JWT Verifier, Sequelize, and Epilogue
 
-# TODO
-
-[Learn how to build your own social media app from scratch using React, Redux, Firebase, and Express](https://www.freecodecamp.org/news/react-firebase-social-media-app-course/) - a full-length intermediate  course - all free and with no ads (12 hour watch): 
-
-[3 Approaches for Using the Google Sheets API in Node.js: A Tutorial](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/)
-
-[How I built my first React Native app for my first freelance client](https://medium.freecodecamp.org/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1)
-
-[The Modern JavaScript Tutorial](https://javascript.info/) From the basics to advanced topics with simple, but detailed explanations. Main course contains 2 parts which cover JavaScript as a programming language and working with a browser. There are also additional series of thematic articles.
-
-[Front End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
-
-[Bulletproof node.js project architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf) The correct organization of your node.js project structure will avoid duplication of code, will improve stability, and potentially, will help you scale your services if is done correctly.
-
-[Google Cloud Functions, Node.js and Express](https://itnext.io/google-cloud-functions-node-js-and-express-aea4a2a9ba3a)
-
-[Cómo instalar aplicaciones web progresivas (PWA) en Chrome desde Windows o macOS](https://www.genbeta.com/paso-a-paso/como-instalar-aplicaciones-web-progresivas-pwa-chrome)
-
-[Dynamic image resizing with Node.js and the Serverless Framework](https://serverless.com/blog/dynamic-image-resizing-nodejs/) In this article, we'll take an in-depth look at the benefits of dynamic image resizing and walk you through using the Serverless Framework to resize your images dynamically with AWS Lambda. So, let's get to it!
-
-[The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
-
-[Website with blog and portfolio using Vue.js + Nuxt + Markdown](https://marinaaisa.com/blog/blog-using-vue-nuxt-markdown/) How I created my new website with portfolio and blog in two languages. What technology I used and why.
-
-[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md) Clean Code Javascript es un repositorio en GitHub que contiene un montón de consejos, ejemplos y convenciones para crear un código limpio y mantenible. Desde naming de variables y funciones hasta SOLID y manejo de errores. ¡Recomendadísimo! 
-
-[Seven reasons to learn Vue.js in 2019](https://dev.to/rossta/seven-reasons-learn-vuejs-in-2019-2n9o)
-
-[10 Best Tips for Learning Vue from Vue Masters](https://medium.com/vue-mastery/10-best-tips-for-learning-vue-from-vue-masters-a21c794b1e6e) If you’re a developer who is just starting out with Vue.js, jumping in can be both exciting and overwhelming. While everybody’s learning process is very different, I asked six Vue Masters the following question “What advice would you give developers who are just starting Vue.js that you wish you would have known?”
-
-[Tip: Get the unique values of an array in JavaScript](https://twitter.com/addyosmani/status/1080727964411674624?s=11)
-
-[The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66) Objects are the foundation of JavaScript and permeate its every aspect. Almost everything in JavaScript is an object. In fact, only six things are not objects. They are — null,undefined, strings, numbers, boolean, and symbols. These are called primitive values or primitive types.
-
-[Nuxt.js](https://nuxtjs.org/) Nuxt.js presets all the configuration needed to make your development of a Vue.js application enjoyable.
-
-[Web con blog y portfolio usando Vue.js + Nuxt + Markdown](https://marinaaisa.com/es/blog/blog-usando-vue-nuxt-markdown/) Cómo he creado mi nueva web con portfolio y blog en dos idiomas. Qué tecnología he utilizado y por qué
-
-[How to build a Node.js server that scales](https://medium.freecodecamp.org/writing-scalable-architecture-for-node-js-2b58e0523d7f)
-
-[A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines#testing)
-
-[How to use NodeJS without frameworks and external libraries](https://adityasridhar.com/posts/how-to-use-nodejs-without-frameworks-and-external-libraries)
-
-[Write tests. Not too many. Mostly integration](https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c)
-
-[Build a Basic CRUD App with Vue.js and Node](https://www.sitepoint.com/build-a-basic-crud-app-with-vue-js-and-node/) This tutorial will take you step by step through scaffolding a Vue.js project, offloading secure authentication to Okta’s OpenID Connect API (OIDC), locking down protected routes, and performing CRUD operations through a backend REST API server.
-
-[Pruebas asíncronas en node.js](http://pinchito.es/2013/pruebas-asincronas.html)
-
-[Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417) Who hasn’t dreamt they could create web and mobile applications from scratch in a matter of days, while using cutting-edge technologies? With good programming patterns and a well-chosen framework, this dream is not as unrealistic as it seems… and Vulcan.js is the answer!
-
-[Hello, Create React App 2.0!](https://www.telerik.com/blogs/hello-create-react-app-2) Create React App provides an environment for learning React with zero configuration, developed by the React team at Facebook Open Source to help you jump-start your application. 
-
-[Minicurso Gratuito React.js y Firebase](https://cursos.carlosazaustre.es/courses/enrolled/169975)
-[Curso en Youtube](https://www.youtube.com/watch?v=M76SUpBf_3o&list=PLUdlARNXMVkn5_dwhSfC3WzqRrGhsfqu5)
-
-[Building a Simple CRUD Application with Express and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
-
-[Writing a CRUD app with Node.js and MongoDB](https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb)
-
-[A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe) creating a production-ready Express API running on AWS Lambda with a persistent MongoDB data store.
-
-[A pure javascript QR code reading library](https://github.com/cozmo/jsQR)
-
-[I created the exact same TODO app in React and Vue. Here are the differences](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
-
-[Creating an Instagram Bot With Node.js](https://hackernoon.com/how-to-create-an-instagram-bot-with-node-js-a289185a7d6f)
-
-[Building a simple static site generator using Node.js](https://smalldata.tech/blog/2018/08/16/building-a-simple-static-site-generator-using-node-js)
-
-[Hello vue. A quicjk tutorial on Getting Started with Vue](https://www.telerik.com/blogs/hello-vue-a-quick-tutorial-on-getting-started-with-vue)
-
-[Tutorial - Build an instagram clone with vue js and cssgram](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
-
-[Build A Simple Beginner App With Node, Bootstrap & MongoDB](https://www.sitepoint.com/build-simple-beginner-app-node-bootstrap-mongodb/)
-
-[Create a simple weather app using Node.js, Express, and React](https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a)
-
-[Twitter Sentiment Analysis using NodeJS](https://boostlog.io/@anshulc95/twitter-sentiment-analysis-using-nodejs-5ad1331247018500491f3b6a)
-
-[Installable Web Apps: A Practical Introduction To PWAs with JavaScript and Node.js](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html)
-
-[Offline-First with Node.js and Hoodie: A Practical Introduction to Progressive Web Apps](https://dev.to/pmbanugo/offline-first-with-nodejs-and-hoodie-a-practical-introduction-to-progressive-web-apps-5f57)
-
-1. How to use Chrome DevTools to do modern web development right in your browser (50 minute watch): https://www.youtube.com/watch?v=wz1Sy5C039M
-
-2. An overview of Visual Studio Code - Microsoft's open source code editor - for front-end developers (8 minute read): https://medium.freecodecamp.org/49a4aa0771fb
-
-4. How to build Desktop apps in JavaScript: multithreading, SQLite, native modules, and other common Electron pain points (9 minute read): https://medium.freecodecamp.org/1679d5ec0ac
-
-[Ahora puedes implementar tu app de Node.js en el entorno estándar de App Engine](https://developers-latam.googleblog.com/2018/06/blog-de-google-cloud-platform-ahora.html)
-
-[How to deploy a Node.js application to AWS Lambda using Serverless](https://dev.to/adnanrahic/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless-2nc7)
-
-[Tu primera Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=es)
-[Demo Progressive Web App](https://github.com/gokulkrishh/demo-progressive-web-app)
-[Offline-First Progressive Web Apps (PWA) in Vue.js](https://egghead.io/courses/offline-first-progressive-web-apps-pwa-in-vue-js)
-
-[Create a simple weather app using Node.js, Express, and React](https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a)
-
-[Como hacer una App Lista de Tareas con Javascript](https://www.youtube.com/watch?v=QEp5MwFneRQ&index=23&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G) tutorial dentro de un buen curso Básico de Javascript desde 0
-
-[Build a Serverless Online Quiz with Google Cloud Functions and Cloud Firestore](https://rominirani.com/build-a-serverless-online-quiz-with-google-cloud-functions-and-cloud-firestore-1e3fbf84a7d8)
-
-[Node.js, Express.js, Mongoose.js and Passport.js Authentication](https://www.djamware.com/post/58bd823080aca7585c808ebf/nodejs-expressjs-mongoosejs-and-passportjs-authentication)
-
-[Cómo crear un API REST con autenticacion en 30 segundos](https://www.desarrolloweb.com/articulos/api-rest--autenticacion-jwt.html)
-
-[TodoMVC](http://todomvc.com/) Helping you select an MV* framework
-
-[ggalmazor - Refactoring to functions workshop](https://github.com/ggalmazor/string-calculator-es6-refactor-workshop)
-
-This is a NodeJS project. You should do the following steps build:
-
-NodeJS 6 or greater is required
-* `git clone https://github.com/ggalmazor/string-calculator-es6-refactor-workshop.git`
-* Enter directory cloned `cd string-calculator-es6-refactor-workshop`
-* Download dependencies with `npm install` or `yarn`
-* Run the tests with `npm run test` or `yarn test`
-
-If you can follow these steps and you get a report of 7 passing tests, sit back and relax.
-
-[Demystifying JavaScript’s ‘new’ keyword](https://medium.freecodecamp.org/demystifying-javascripts-new-keyword-874df126184c)
-
-[What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
-
-[Tutorial : Flutter App powered by Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957)
-
-[Structuring JavaScript projects for testability](Structuring JavaScript projects for testability)
-
-[10 Tips for Javascript Debugging Like a PRO with Console](https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6)
-
-[Iniciación a NodeJS con ejemplos básicos](https://github.com/LuisJoseSanchez/nodejs-iniciacion/blob/master/README.md)
-
-[NodeJS, Express y Jade (Pug). Ejemplos básicos.](https://github.com/LuisJoseSanchez/nodejs-express-jade/blob/master/README.md)
-
-[Aplicaciones de alto rendimiento con Node.js (V). Ejemplos de conexion a BBDD
-](https://www.sidertia.com/Home/Community/Blog/2015/04/27/Aplicaciones-de-alto-rendimiento-con-Nodejs-V-Ejemplos-de-conexion-a-BBDD)
-
-[Express.js Tutorial: Building RESTful APIs with Node and Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
-
-[MONTAR UN API REST CON NODEJS Y EXPRESS](https://www.luisllamas.es/montar-un-api-rest-con-nodejs-y-express/)
-
-[Como crear una API REST usando node express mongoDB](https://carlosazaustre.es/como-crear-una-api-rest-usando-node-js/)
-
-[Iniciación a NodeJS con ejemplos básicos](https://github.com/LuisJoseSanchez/nodejs-iniciacion/blob/master/README.md)
-
-[JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg) una demo muy basica y dinamica de como funciona javascript en browser.
-
-[Live Coding a Trello Clone with AngularJS and Node.js (MEAN stack)](https://www.youtube.com/watch?v=ssXqKDS2dlw)
-
-[Implementing SOLID and the onion architecture in Node.js with TypeScript and InversifyJS](https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad)
-
-[The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
-
-[A complete guide to threads in Node.js](https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f)
-
-##UI Testing Myths
-
-Myth 1: "Tests always break when I make any changes to the code"
-This is actually a truth... if the tests are written incorrectly. If your test is testing implementation details, then of course they’ll break when the implementation changes! But your user doesn’t care about the implementation details. In fact, they don’t even care whether you’re using React, Angular, or jQuery. So for the most part, your tests shouldn’t care about that either. 💯
-
-Unfortunately, many tools out there encourage testing implementation details. Do that and you’ll often wind up rewriting tests. “Why am I even testing this!?” you’ll ask yourself, and I don’t blame you. That’s why on TestingJavaScript.com I show you how test the right way.
-
-Myth 2: "I can’t test a “connected” redux component"
-The conventional wisdom of testing components that use Redux is that you should test the component in isolation from Redux, and then test the Redux action creators and reducers separately.
-
-But if you do this, your tests can’t give you any confidence that your components communicate properly with Redux.
-
-Instead, you can actually test your connected component with your real Redux store. Do this, and you’ll get the confidence that your component is rendering properly, and that the Redux action creators and reducers are all working together in tandem. Just like they will in production. ✅
-
-On TestingJavaScript.com, I show you how to test in this way. The same concepts apply for React Router 🔀 and other providers (like the Theme Provider from emotion 👩‍🎤), and the course will show how to apply this method to those, too!
-
-Myth 3: "End-to-End tests are slow and brittle"
-This, too, can be true if the tests are written incorrectly. A common mistake I see in E2E testing is doing the same things in every test—for instance, every test going through the whole registration and login flow before doing whatever is needed for the test. When you do stuff like this, you start seeing a lot of duplication, and that’s when you start creating things like “page objects” (which is a poor practice). 😐
-
-On TestingJavaScript.com, I show you how you can get confidence that the registration and login flows are working, and then skip those for the rest of your tests so you can significantly speed up the tests and reduce the points of failure. When you write tests this way and use tools like cypress-testing-library, practices like page objects are totally unnecessary, and your tests are easier to maintain, more reliable, and run faster. You might even find yourself replacing Chrome with Cypress as your development workflow tool (which I show you how to do in the course as well!) 😱
-
-More references:
-[Common Myths of Test Automation](https://www.testingexcellence.com/common-myths-test-automation/)
-
-[6 Popular Myths in Test Automation You Must Know](https://www.testbytes.net/blog/6-popular-myths-in-test-automation-you-must-know/)
-
-[Node.js & JavaScript Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347)
-
 # Componentes, librerias
 
 [Logality](https://github.com/thanpolas/logality) a versatile and powerful logger for Node.js
@@ -451,7 +312,7 @@ More references:
 [Danfo.js](https://developers-latam.googleblog.com/2020/09/presentamos-danfojs-una-biblioteca.html) es una biblioteca de JavaScript de código abierto que proporciona estructuras de datos de alto rendimiento, intuitivas y fáciles de usar para manipular y procesar datos estructurados. Está inspirada en gran medida en la biblioteca de Pandas para Python y proporciona una interfaz y API similares. Esto significa que los usuarios que están familiarizados con la API de Pandas y conocen JavaScript pueden comenzar a usarla de inmediato.
 
 # Herramientas
-
+* [Amplication](https://amplication.com/) is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. Here you can create a Node.js app using few clicks: Create Data Models 📁, Push code to GitHub directly from Amplication 📲, Connect from code using GraphQL or REST 📃
 * [Beginner's Guide to JavaScript Static Code Analysis](https://dzone.com/articles/beginners-guide-to-javascript-static-code-analysis)
 * [Volta](https://github.com/volta-cli/volta) Install and run any JS tool quickly and seamlessly! Ensure everyone in your project has the same tools—without interfering with their workflow.
 No matter the package manager, Node runtime, or OS, one command is all you need: volta install.
