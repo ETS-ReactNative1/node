@@ -3,6 +3,7 @@
 * [Essential tips that every aspiring or new web developer should take to heart](https://twitter.com/oliverjumpertz/status/1401545563548622850)
 
 ## HTML, CSS, JS
+* [HTML Graphics element](https://twitter.com/ravikmmr/status/1413454350907678722?s=27) you can draw shapes and designs using Html elements.]
 * [8 Free Sites for Web Developers](https://twitter.com/csaba_kissi/status/1410632523936194560)
   * [Fontjoy](https://fontjoy.com/) helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.
   * [Hidden tools](https://hiddentools.dev/) Explore a collection of tools to use for your next project. Search, filter, and find tools from a ton of different categories.
