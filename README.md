@@ -1,6 +1,10 @@
 # node
-
+* [Docs mas oficiales de JS](https://twitter.com/daslaf/status/1414379165596409856?s=27)
+  * [MDN Web Docs](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  * [Javascript Info](https://javascript.info/) The Modern JavaScript Tutorial
+  * [ECMA Script](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/) es [Especificacion Lenguaje Oficial](https://262.ecma-international.org/6.0/)
 * [Essential tips that every aspiring or new web developer should take to heart](https://twitter.com/oliverjumpertz/status/1401545563548622850)
+* [DevDocs](https://devdocs.io/] Multiple API documentation
 
 ## HTML, CSS, JS
 * [Curso CSS desde cero para principiantes](https://www.youtube.com/watch?v=vRyb9AVG5L8)
