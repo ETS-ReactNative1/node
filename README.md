@@ -7,6 +7,11 @@
 * [DevDocs](https://devdocs.io/] Multiple API documentation
 
 ## HTML, CSS, JS
+* 100daysofcode
+* [Free JS resources](https://www.java5cript.com/)
+* [codier](https://codier.io/) Explore and attempt front-end coding challenges.
+* [Web.Dev](https://web.dev/learn/) Explore our structured learning paths to discover everything you need to know about building for the modern web.
+* [The Odin Project](https://www.theodinproject.com/) Your Career in Web Development. Our full stack curriculum is free and supported by a passionate open source community.
 * [Los 10 mejores canales YouTube sobre desarrollo web en español](https://www.antoniomasia.com/10-mejores-canales-sobre-desarrollo-web/)
   * [Midudev - Miguel Angel Duran](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ) Todo sobre desarrollo web gratuito de frontend, y fullstack basado en [FullStackOpen](https://fullstackopen.com/es/).
   * [Aprende JS - Carlos Azaustre](https://www.youtube.com/user/azaman1984) js, frontend, backend
@@ -18,7 +23,7 @@
   * [Wmedia - Juan Andres Nuñez](https://www.youtube.com/channel/UCF6G2sF4DKlWvgfEGcm50FQ) desarrollo Web moderno y productivo, en especial vue
   * [Pablo Sirera](https://www.youtube.com/user/psirera4) Nuxt y vue
   * [Antonio Sarosi](https://www.youtube.com/channel/UCzTi9I3zApECTkukkMOpEEA) desarrollo web, configurar linux, la terminal, conceptos sobre sistemas operativos, etc
-  * 
+ 
 * [Curso CSS desde cero para principiantes](https://www.youtube.com/watch?v=vRyb9AVG5L8)
 * [HTML Graphics element](https://twitter.com/ravikmmr/status/1413454350907678722?s=27) you can draw shapes and designs using Html elements.]
 * [8 Free Sites for Web Developers](https://twitter.com/csaba_kissi/status/1410632523936194560)
