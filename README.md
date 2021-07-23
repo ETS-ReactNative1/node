@@ -7,6 +7,7 @@
 * [DevDocs](https://devdocs.io/] Multiple API documentation
 
 ## HTML, CSS, JS
+* [HTML Tips](https://markodenic.com/html-tips/)
 * 100daysofcode
 * [Free JS resources](https://www.java5cript.com/)
 * [codier](https://codier.io/) Explore and attempt front-end coding challenges.
