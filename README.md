@@ -507,7 +507,17 @@ This is a free book, and it is a comprehensive intro to JavaScript. It is freshl
 * Myth 3: “End-to-End tests are slow and brittle” 
 
 # Ejemplos
-
+* [Use these websites to download free web templates](https://twitter.com/heyOnuoha/status/1423605063306600450) for your next web development projects
+  * ColorLib
+  * Nice Page 
+  * Free CSS 
+  * Free Website Templates 
+  * Templatemo
+  * Monsterpost's Free website templates
+  * Theme Hunt
+  * Theme Wagon
+  * Creative Tim
+  * Theme Fisher 
 [Web development illustrated](https://illustrated.dev/)
 
 [#javascript ES6 cheatsheet — String Templates](https://medium.com/@serbanmihai/javascript-es6-cheatsheet-string-templates-d2de281668f0)
