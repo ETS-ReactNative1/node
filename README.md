@@ -338,6 +338,7 @@ This tutorial will take you step by step through scaffolding a Vue.js project, o
 [Danfo.js](https://developers-latam.googleblog.com/2020/09/presentamos-danfojs-una-biblioteca.html) es una biblioteca de JavaScript de código abierto que proporciona estructuras de datos de alto rendimiento, intuitivas y fáciles de usar para manipular y procesar datos estructurados. Está inspirada en gran medida en la biblioteca de Pandas para Python y proporciona una interfaz y API similares. Esto significa que los usuarios que están familiarizados con la API de Pandas y conocen JavaScript pueden comenzar a usarla de inmediato.
 
 # Herramientas
+* [gtmetrix](https://gtmetrix.com/) See how your site performs, reveal why it's slow and discover optimization opportunities.
 * [Amplication](https://amplication.com/) is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. Here you can create a Node.js app using few clicks: Create Data Models 📁, Push code to GitHub directly from Amplication 📲, Connect from code using GraphQL or REST 📃
 * [Beginner's Guide to JavaScript Static Code Analysis](https://dzone.com/articles/beginners-guide-to-javascript-static-code-analysis)
 * [Volta](https://github.com/volta-cli/volta) Install and run any JS tool quickly and seamlessly! Ensure everyone in your project has the same tools—without interfering with their workflow.
