@@ -5,6 +5,7 @@
   * [ECMA Script](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/) es [Especificacion Lenguaje Oficial](https://262.ecma-international.org/6.0/)
 * [Essential tips that every aspiring or new web developer should take to heart](https://twitter.com/oliverjumpertz/status/1401545563548622850)
 * [DevDocs](https://devdocs.io/] Multiple API documentation
+* [Tutorial paso a paso carrito compra](https://www.youtube.com/watch?v=Pri0AHpLQA0)
 
 ## HTML, CSS, JS
 * [Mejor Curso React Gratis](https://www.youtube.com/watch?v=T_j60n1zgu0&list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) Supercompleto y muy bien explicado.
