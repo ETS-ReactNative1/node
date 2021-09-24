@@ -8,6 +8,9 @@
 * [Tutorial paso a paso carrito compra](https://www.youtube.com/watch?v=Pri0AHpLQA0)
 
 ## HTML, CSS, JS
+* [2021 Developer Roadmap](https://twitter.com/heyonuoha/status/1438900496400592902?s=27)
+* [FullStack Roadmap](https://twitter.com/jasba24/status/1438865784604921865?s=27)
+* [#uicomponents para practicar](https://twitter.com/fmontes/status/1438949000548261888?s=27) [cientos de componentes para practicar](codyhouse.co/ds/components)
 * [Añadir un mapa cartográfico OpenStreetMap a una página web](https://picodotdev.github.io/blog-bitix/2021/09/anadir-un-mapa-cartografico-con-javascript-leaflet-y-openstreetmap-a-una-pagina-web/)
 * [Mejor Curso React Gratis](https://www.youtube.com/watch?v=T_j60n1zgu0&list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) Supercompleto y muy bien explicado.
 * [HTML Tips](https://markodenic.com/html-tips/)
