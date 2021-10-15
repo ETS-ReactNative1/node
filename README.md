@@ -512,6 +512,7 @@ This is a free book, and it is a comprehensive intro to JavaScript. It is freshl
 * Myth 3: “End-to-End tests are slow and brittle” 
 
 # Ejemplos
+* [Learn to code four Node.js projects. Free 10-hour course on full-stack JavaScript](https://www.freecodecamp.org/news/build-six-node-js-and-express-js/) This course taught by legendary freeCodeCamp teacher John Smilga will walk you through building four Node.js and Express.js projects. You'll build your own task manager, ecommerce API, login dashboard using JWT, and finally your own job board API. These projects will give you a sound foundation in API design and back end JavaScript web development. (10 hour YouTube course)
 * [Use these websites to download free web templates](https://twitter.com/heyOnuoha/status/1423605063306600450) for your next web development projects
   * ColorLib
   * Nice Page 
