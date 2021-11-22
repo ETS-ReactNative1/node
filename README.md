@@ -8,6 +8,7 @@
 * [Tutorial paso a paso carrito compra](https://www.youtube.com/watch?v=Pri0AHpLQA0)
 
 ## HTML, CSS, JS
+* [Librerias JS a probar](https://twitter.com/alexanyernas/status/1460993937452191748?s=27)
 * [2021 Developer Roadmap](https://twitter.com/heyonuoha/status/1438900496400592902?s=27)
 * [FullStack Roadmap](https://twitter.com/jasba24/status/1438865784604921865?s=27)
 * [#uicomponents para practicar](https://twitter.com/fmontes/status/1438949000548261888?s=27) [cientos de componentes para practicar](codyhouse.co/ds/components)
